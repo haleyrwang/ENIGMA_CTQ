@@ -1,0 +1,601 @@
+phenotype_names,CTQ_Term,Sex,Region,Effect_Size_Ped,p_value_Ped,q_value_Ped,Significant_Ped,Sample_Size_Ped,Effect_Size_YA,p_value_YA,q_value_YA,Significant_YA,Sample_Size_YA,Effect_Size_OA,p_value_OA,q_value_OA,Significant_OA,Sample_Size_OA
+cortical_thickness,CTQ_Abuse,female,L_bankssts_thickavg,0.058 (0.073),4.29E-01,9.31E-01,No,189,0.003 (0.029),9.24E-01,9.52E-01,No,1163,0.018 (0.034),5.90E-01,7.56E-01,No,864
+cortical_thickness,CTQ_Abuse,female,L_caudalanteriorcingulate_thickavg,0.082 (0.073),2.60E-01,8.67E-01,No,189,-0.116 (0.029) *,7.59E-05,2.20E-03,Yes,1163,-0.132 (0.034) *,9.95E-05,3.38E-03,Yes,864
+cortical_thickness,CTQ_Abuse,female,L_caudalmiddlefrontal_thickavg,0.002 (0.073),9.82E-01,9.82E-01,No,189,0.025 (0.029),3.86E-01,6.10E-01,No,1163,-0.008 (0.034),8.14E-01,8.73E-01,No,864
+cortical_thickness,CTQ_Abuse,female,L_cuneus_thickavg,0.089 (0.073),2.24E-01,8.67E-01,No,189,0.006 (0.029),8.42E-01,9.46E-01,No,1163,-0.046 (0.034),1.77E-01,3.53E-01,No,864
+cortical_thickness,CTQ_Abuse,female,L_entorhil_thickavg,0.142 (0.072),5.17E-02,7.41E-01,No,189,-0.078 (0.029),8.17E-03,5.39E-02,No,1163,0.004 (0.034),9.02E-01,9.30E-01,No,864
+cortical_thickness,CTQ_Abuse,female,L_fusiform_thickavg,0.026 (0.073),7.27E-01,9.78E-01,No,189,0.005 (0.029),8.56E-01,9.46E-01,No,1163,0.053 (0.034),1.19E-01,2.92E-01,No,864
+cortical_thickness,CTQ_Abuse,female,L_inferiorparietal_thickavg,-0.047 (0.073),5.20E-01,9.31E-01,No,189,-0.095 (0.029) *,1.15E-03,1.30E-02,Yes,1163,-0.075 (0.034),2.83E-02,1.14E-01,No,864
+cortical_thickness,CTQ_Abuse,female,L_inferiortemporal_thickavg,-0.025 (0.073),7.33E-01,9.78E-01,No,189,0.005 (0.029),8.69E-01,9.46E-01,No,1163,0.098 (0.034) *,3.99E-03,2.71E-02,Yes,864
+cortical_thickness,CTQ_Abuse,female,L_isthmuscingulate_thickavg,0.076 (0.073),3.01E-01,8.67E-01,No,189,-0.103 (0.029) *,4.26E-04,7.24E-03,Yes,1163,-0.127 (0.034) *,1.81E-04,4.10E-03,Yes,864
+cortical_thickness,CTQ_Abuse,female,L_lateraloccipital_thickavg,-0.004 (0.073),9.55E-01,9.82E-01,No,189,-0.076 (0.029),9.51E-03,5.39E-02,No,1163,-0.108 (0.034) *,1.53E-03,1.94E-02,Yes,864
+cortical_thickness,CTQ_Abuse,female,L_lateralorbitofrontal_thickavg,0.076 (0.073),3.01E-01,8.67E-01,No,189,-0.017 (0.029),5.73E-01,7.95E-01,No,1163,0.001 (0.034),9.67E-01,9.67E-01,No,864
+cortical_thickness,CTQ_Abuse,female,L_lingual_thickavg,0.047 (0.073),5.18E-01,9.31E-01,No,189,-0.004 (0.029),8.96E-01,9.46E-01,No,1163,-0.099 (0.034) *,3.61E-03,2.71E-02,Yes,864
+cortical_thickness,CTQ_Abuse,female,L_medialorbitofrontal_thickavg,0.128 (0.073),7.92E-02,7.41E-01,No,189,0.057 (0.029),5.39E-02,1.93E-01,No,1163,0.107 (0.034) *,1.68E-03,1.94E-02,Yes,864
+cortical_thickness,CTQ_Abuse,female,L_middletemporal_thickavg,-0.018 (0.073),8.01E-01,9.78E-01,No,189,-0.005 (0.029),8.70E-01,9.46E-01,No,1163,0.073 (0.034),3.19E-02,1.14E-01,No,864
+cortical_thickness,CTQ_Abuse,female,L_parahippocampal_thickavg,-0.031 (0.073),6.71E-01,9.78E-01,No,189,-0.035 (0.029),2.33E-01,4.16E-01,No,1163,-0.051 (0.034),1.36E-01,3.02E-01,No,864
+cortical_thickness,CTQ_Abuse,female,L_paracentral_thickavg,0.032 (0.073),6.63E-01,9.78E-01,No,189,0.045 (0.029),1.26E-01,3.02E-01,No,1163,0.018 (0.034),6.01E-01,7.56E-01,No,864
+cortical_thickness,CTQ_Abuse,female,L_parsopercularis_thickavg,-0.085 (0.073),2.47E-01,8.67E-01,No,189,-0.009 (0.029),7.61E-01,9.25E-01,No,1163,-0.002 (0.034),9.62E-01,9.67E-01,No,864
+cortical_thickness,CTQ_Abuse,female,L_parsorbitalis_thickavg,0.032 (0.073),6.60E-01,9.78E-01,No,189,-0.035 (0.029),2.37E-01,4.16E-01,No,1163,0.079 (0.034),2.03E-02,9.84E-02,No,864
+cortical_thickness,CTQ_Abuse,female,L_parstriangularis_thickavg,-0.094 (0.073),2.00E-01,8.67E-01,No,189,0.035 (0.029),2.39E-01,4.16E-01,No,1163,0.051 (0.034),1.38E-01,3.02E-01,No,864
+cortical_thickness,CTQ_Abuse,female,L_pericalcarine_thickavg,0.056 (0.073),4.42E-01,9.31E-01,No,189,0.004 (0.029),9.04E-01,9.46E-01,No,1163,-0.051 (0.034),1.36E-01,3.02E-01,No,864
+cortical_thickness,CTQ_Abuse,female,L_postcentral_thickavg,-0.116 (0.073),1.12E-01,7.41E-01,No,189,-0.033 (0.029),2.67E-01,4.43E-01,No,1163,0.026 (0.034),4.38E-01,6.20E-01,No,864
+cortical_thickness,CTQ_Abuse,female,L_posteriorcingulate_thickavg,-0.019 (0.073),7.98E-01,9.78E-01,No,189,-0.124 (0.029) *,2.28E-05,1.55E-03,Yes,1163,-0.166 (0.034) *,9.57E-07,6.50E-05,Yes,864
+cortical_thickness,CTQ_Abuse,female,L_precentral_thickavg,-0.123 (0.073),9.12E-02,7.41E-01,No,189,-0.015 (0.029),6.16E-01,8.21E-01,No,1163,-0.009 (0.034),8.01E-01,8.73E-01,No,864
+cortical_thickness,CTQ_Abuse,female,L_precuneus_thickavg,0.003 (0.073),9.67E-01,9.82E-01,No,189,0.004 (0.029),9.04E-01,9.46E-01,No,1163,-0.062 (0.034),7.07E-02,2.00E-01,No,864
+cortical_thickness,CTQ_Abuse,female,L_rostralanteriorcingulate_thickavg,0.127 (0.073),8.09E-02,7.41E-01,No,189,-0.066 (0.029),2.46E-02,1.11E-01,No,1163,-0.008 (0.034),8.22E-01,8.73E-01,No,864
+cortical_thickness,CTQ_Abuse,female,L_rostralmiddlefrontal_thickavg,-0.061 (0.073),4.08E-01,9.31E-01,No,189,0.05 (0.029),8.86E-02,2.65E-01,No,1163,-0.013 (0.034),7.00E-01,8.15E-01,No,864
+cortical_thickness,CTQ_Abuse,female,L_superiorfrontal_thickavg,0.114 (0.073),1.20E-01,7.41E-01,No,189,0.062 (0.029),3.31E-02,1.32E-01,No,1163,-0.014 (0.034),6.80E-01,8.12E-01,No,864
+cortical_thickness,CTQ_Abuse,female,L_superiorparietal_thickavg,0.022 (0.073),7.67E-01,9.78E-01,No,189,0.021 (0.029),4.69E-01,6.94E-01,No,1163,-0.017 (0.034),6.20E-01,7.66E-01,No,864
+cortical_thickness,CTQ_Abuse,female,L_superiortemporal_thickavg,0.009 (0.073),8.98E-01,9.82E-01,No,189,0.077 (0.029),8.80E-03,5.39E-02,No,1163,0.013 (0.034),7.07E-01,8.15E-01,No,864
+cortical_thickness,CTQ_Abuse,female,L_supramargil_thickavg,-0.119 (0.073),1.02E-01,7.41E-01,No,189,-0.01 (0.029),7.27E-01,8.98E-01,No,1163,-0.097 (0.034) *,4.50E-03,2.78E-02,Yes,864
+cortical_thickness,CTQ_Abuse,female,L_frontalpole_thickavg,0.087 (0.073),2.36E-01,8.67E-01,No,189,0.029 (0.029),3.25E-01,5.26E-01,No,1163,-0.035 (0.034),3.02E-01,5.25E-01,No,864
+cortical_thickness,CTQ_Abuse,female,L_temporalpole_thickavg,0.078 (0.073),2.88E-01,8.67E-01,No,189,0.005 (0.029),8.69E-01,9.46E-01,No,1163,0.047 (0.034),1.68E-01,3.45E-01,No,864
+cortical_thickness,CTQ_Abuse,female,L_transversetemporal_thickavg,0.142 (0.072),5.15E-02,7.41E-01,No,189,0.044 (0.029),1.31E-01,3.02E-01,No,1163,0.008 (0.034),8.19E-01,8.73E-01,No,864
+cortical_thickness,CTQ_Abuse,female,L_insula_thickavg,0.085 (0.073),2.44E-01,8.67E-01,No,189,-0.083 (0.029) *,4.67E-03,3.53E-02,Yes,1163,0.015 (0.034),6.62E-01,8.04E-01,No,864
+cortical_thickness,CTQ_Abuse,female,R_bankssts_thickavg,-0.014 (0.073),8.48E-01,9.78E-01,No,189,-0.039 (0.029),1.87E-01,3.58E-01,No,1163,-0.068 (0.034),4.60E-02,1.42E-01,No,864
+cortical_thickness,CTQ_Abuse,female,R_caudalanteriorcingulate_thickavg,0.071 (0.073),3.34E-01,8.73E-01,No,189,-0.09 (0.029) *,2.02E-03,1.97E-02,Yes,1163,-0.035 (0.034),3.09E-01,5.25E-01,No,864
+cortical_thickness,CTQ_Abuse,female,R_caudalmiddlefrontal_thickavg,-0.033 (0.073),6.51E-01,9.78E-01,No,189,-0.044 (0.029),1.37E-01,3.02E-01,No,1163,-0.107 (0.034) *,1.71E-03,1.94E-02,Yes,864
+cortical_thickness,CTQ_Abuse,female,R_cuneus_thickavg,0.075 (0.073),3.06E-01,8.67E-01,No,189,-0.022 (0.029),4.59E-01,6.93E-01,No,1163,-0.007 (0.034),8.46E-01,8.85E-01,No,864
+cortical_thickness,CTQ_Abuse,female,R_entorhil_thickavg,0.059 (0.073),4.19E-01,9.31E-01,No,189,-0.114 (0.029) *,9.69E-05,2.20E-03,Yes,1163,-0.054 (0.034),1.14E-01,2.92E-01,No,864
+cortical_thickness,CTQ_Abuse,female,R_fusiform_thickavg,0.108 (0.073),1.38E-01,7.83E-01,No,189,0.049 (0.029),9.47E-02,2.65E-01,No,1163,0.043 (0.034),2.12E-01,3.89E-01,No,864
+cortical_thickness,CTQ_Abuse,female,R_inferiorparietal_thickavg,-0.065 (0.073),3.73E-01,9.31E-01,No,189,-0.012 (0.029),6.75E-01,8.66E-01,No,1163,0.031 (0.034),3.68E-01,5.65E-01,No,864
+cortical_thickness,CTQ_Abuse,female,R_inferiortemporal_thickavg,0.015 (0.073),8.43E-01,9.78E-01,No,189,-0.001 (0.029),9.85E-01,9.85E-01,No,1163,0.073 (0.034),3.17E-02,1.14E-01,No,864
+cortical_thickness,CTQ_Abuse,female,R_isthmuscingulate_thickavg,-0.027 (0.073),7.12E-01,9.78E-01,No,189,-0.058 (0.029),4.88E-02,1.84E-01,No,1163,-0.091 (0.034) *,7.40E-03,4.20E-02,Yes,864
+cortical_thickness,CTQ_Abuse,female,R_lateraloccipital_thickavg,0.061 (0.073),4.07E-01,9.31E-01,No,189,-0.049 (0.029),9.66E-02,2.65E-01,No,1163,0.048 (0.034),1.62E-01,3.45E-01,No,864
+cortical_thickness,CTQ_Abuse,female,R_lateralorbitofrontal_thickavg,0.049 (0.073),4.99E-01,9.31E-01,No,189,0.015 (0.029),6.10E-01,8.21E-01,No,1163,0.045 (0.034),1.89E-01,3.66E-01,No,864
+cortical_thickness,CTQ_Abuse,female,R_lingual_thickavg,0.042 (0.073),5.68E-01,9.78E-01,No,189,-0.022 (0.029),4.52E-01,6.93E-01,No,1163,-0.086 (0.034),1.18E-02,6.20E-02,No,864
+cortical_thickness,CTQ_Abuse,female,R_medialorbitofrontal_thickavg,0.015 (0.073),8.40E-01,9.78E-01,No,189,0.087 (0.029) *,2.95E-03,2.51E-02,Yes,1163,0.104 (0.034) *,2.19E-03,2.03E-02,Yes,864
+cortical_thickness,CTQ_Abuse,female,R_middletemporal_thickavg,-0.104 (0.073),1.56E-01,8.14E-01,No,189,-0.1 (0.029) *,6.34E-04,8.62E-03,Yes,1163,-0.023 (0.034),4.92E-01,6.69E-01,No,864
+cortical_thickness,CTQ_Abuse,female,R_parahippocampal_thickavg,0.004 (0.073),9.62E-01,9.82E-01,No,189,-0.071 (0.029),1.54E-02,8.03E-02,No,1163,-0.074 (0.034),2.92E-02,1.14E-01,No,864
+cortical_thickness,CTQ_Abuse,female,R_paracentral_thickavg,-0.038 (0.073),6.08E-01,9.78E-01,No,189,0.048 (0.029),1.04E-01,2.71E-01,No,1163,-0.019 (0.034),5.77E-01,7.55E-01,No,864
+cortical_thickness,CTQ_Abuse,female,R_parsopercularis_thickavg,-0.051 (0.073),4.84E-01,9.31E-01,No,189,-0.002 (0.029),9.54E-01,9.68E-01,No,1163,-0.07 (0.034),3.98E-02,1.29E-01,No,864
+cortical_thickness,CTQ_Abuse,female,R_parsorbitalis_thickavg,-0.048 (0.073),5.10E-01,9.31E-01,No,189,-0.034 (0.029),2.48E-01,4.22E-01,No,1163,0.03 (0.034),3.82E-01,5.65E-01,No,864
+cortical_thickness,CTQ_Abuse,female,R_parstriangularis_thickavg,-0.008 (0.073),9.13E-01,9.82E-01,No,189,-0.008 (0.029),7.92E-01,9.45E-01,No,1163,0.024 (0.034),4.73E-01,6.56E-01,No,864
+cortical_thickness,CTQ_Abuse,female,R_pericalcarine_thickavg,-0.008 (0.073),9.13E-01,9.82E-01,No,189,-0.017 (0.029),5.53E-01,7.83E-01,No,1163,-0.075 (0.034),2.67E-02,1.14E-01,No,864
+cortical_thickness,CTQ_Abuse,female,R_postcentral_thickavg,-0.038 (0.073),6.02E-01,9.78E-01,No,189,-0.011 (0.029),7.07E-01,8.90E-01,No,1163,0.033 (0.034),3.37E-01,5.53E-01,No,864
+cortical_thickness,CTQ_Abuse,female,R_posteriorcingulate_thickavg,0.038 (0.073),6.03E-01,9.78E-01,No,189,-0.049 (0.029),9.75E-02,2.65E-01,No,1163,-0.103 (0.034) *,2.39E-03,2.03E-02,Yes,864
+cortical_thickness,CTQ_Abuse,female,R_precentral_thickavg,-0.128 (0.073),7.95E-02,7.41E-01,No,189,-0.044 (0.029),1.38E-01,3.02E-01,No,1163,-0.071 (0.034),3.67E-02,1.25E-01,No,864
+cortical_thickness,CTQ_Abuse,female,R_precuneus_thickavg,0.016 (0.073),8.29E-01,9.78E-01,No,189,0.064 (0.029),2.86E-02,1.21E-01,No,1163,-0.038 (0.034),2.64E-01,4.72E-01,No,864
+cortical_thickness,CTQ_Abuse,female,R_rostralanteriorcingulate_thickavg,-0.051 (0.073),4.84E-01,9.31E-01,No,189,-0.041 (0.029),1.60E-01,3.33E-01,No,1163,0.028 (0.034),4.05E-01,5.86E-01,No,864
+cortical_thickness,CTQ_Abuse,female,R_rostralmiddlefrontal_thickavg,-0.003 (0.073),9.67E-01,9.82E-01,No,189,0.041 (0.029),1.62E-01,3.33E-01,No,1163,-0.009 (0.034),7.90E-01,8.73E-01,No,864
+cortical_thickness,CTQ_Abuse,female,R_superiorfrontal_thickavg,0.087 (0.073),2.34E-01,8.67E-01,No,189,0.039 (0.029),1.89E-01,3.58E-01,No,1163,-0.044 (0.034),1.99E-01,3.77E-01,No,864
+cortical_thickness,CTQ_Abuse,female,R_superiorparietal_thickavg,-0.018 (0.073),8.09E-01,9.78E-01,No,189,0.054 (0.029),6.55E-02,2.23E-01,No,1163,0.03 (0.034),3.77E-01,5.65E-01,No,864
+cortical_thickness,CTQ_Abuse,female,R_superiortemporal_thickavg,-0.071 (0.073),3.34E-01,8.73E-01,No,189,-0.02 (0.029),4.90E-01,7.10E-01,No,1163,-0.053 (0.034),1.20E-01,2.92E-01,No,864
+cortical_thickness,CTQ_Abuse,female,R_supramargil_thickavg,-0.156 (0.072),3.20E-02,7.41E-01,No,189,-0.046 (0.029),1.18E-01,2.98E-01,No,1163,-0.059 (0.034),8.12E-02,2.21E-01,No,864
+cortical_thickness,CTQ_Abuse,female,R_frontalpole_thickavg,-0.022 (0.073),7.64E-01,9.78E-01,No,189,0.068 (0.029),1.96E-02,9.50E-02,No,1163,-0.021 (0.034),5.46E-01,7.29E-01,No,864
+cortical_thickness,CTQ_Abuse,female,R_temporalpole_thickavg,0.124 (0.073),9.04E-02,7.41E-01,No,189,-0.039 (0.029),1.89E-01,3.58E-01,No,1163,0.031 (0.034),3.69E-01,5.65E-01,No,864
+cortical_thickness,CTQ_Abuse,female,R_transversetemporal_thickavg,-0.006 (0.073),9.30E-01,9.82E-01,No,189,0.051 (0.029),7.97E-02,2.58E-01,No,1163,0.064 (0.034),6.17E-02,1.83E-01,No,864
+cortical_thickness,CTQ_Abuse,female,R_insula_thickavg,-0.023 (0.073),7.56E-01,9.78E-01,No,189,-0.014 (0.029),6.34E-01,8.29E-01,No,1163,0.032 (0.034),3.41E-01,5.53E-01,No,864
+cortical_thickness,CTQ_Abuse,male,L_bankssts_thickavg,-0.057 (0.08),4.74E-01,8.36E-01,No,159,-0.063 (0.037),8.74E-02,2.22E-01,No,742,-0.037 (0.041),3.68E-01,7.08E-01,No,585
+cortical_thickness,CTQ_Abuse,male,L_caudalanteriorcingulate_thickavg,0.147 (0.079),6.39E-02,6.14E-01,No,159,-0.048 (0.037),1.93E-01,3.46E-01,No,742,-0.04 (0.041),3.31E-01,7.08E-01,No,585
+cortical_thickness,CTQ_Abuse,male,L_caudalmiddlefrontal_thickavg,0.095 (0.079),2.35E-01,7.54E-01,No,159,-0.029 (0.037),4.36E-01,6.21E-01,No,742,-0.047 (0.041),2.53E-01,6.89E-01,No,585
+cortical_thickness,CTQ_Abuse,male,L_cuneus_thickavg,-0.058 (0.08),4.71E-01,8.36E-01,No,159,0.044 (0.037),2.27E-01,3.86E-01,No,742,-0.027 (0.041),5.13E-01,8.45E-01,No,585
+cortical_thickness,CTQ_Abuse,male,L_entorhil_thickavg,0.083 (0.08),2.96E-01,7.73E-01,No,159,-0.028 (0.037),4.40E-01,6.21E-01,No,742,0.009 (0.041),8.27E-01,9.13E-01,No,585
+cortical_thickness,CTQ_Abuse,male,L_fusiform_thickavg,0.058 (0.08),4.70E-01,8.36E-01,No,159,0.08 (0.037),2.94E-02,1.17E-01,No,742,0.095 (0.041),2.10E-02,2.75E-01,No,585
+cortical_thickness,CTQ_Abuse,male,L_inferiorparietal_thickavg,0.073 (0.08),3.62E-01,8.18E-01,No,159,-0.001 (0.037),9.81E-01,9.81E-01,No,742,-0.074 (0.041),7.33E-02,4.53E-01,No,585
+cortical_thickness,CTQ_Abuse,male,L_inferiortemporal_thickavg,0.039 (0.08),6.24E-01,8.39E-01,No,159,0.013 (0.037),7.31E-01,8.15E-01,No,742,0.077 (0.041),6.12E-02,4.42E-01,No,585
+cortical_thickness,CTQ_Abuse,male,L_isthmuscingulate_thickavg,-0.019 (0.08),8.13E-01,9.20E-01,No,159,-0.13 (0.036) *,3.68E-04,3.57E-03,Yes,742,-0.017 (0.041),6.83E-01,8.83E-01,No,585
+cortical_thickness,CTQ_Abuse,male,L_lateraloccipital_thickavg,0.008 (0.08),9.17E-01,9.37E-01,No,159,-0.114 (0.037) *,1.94E-03,1.32E-02,Yes,742,-0.066 (0.041),1.10E-01,5.31E-01,No,585
+cortical_thickness,CTQ_Abuse,male,L_lateralorbitofrontal_thickavg,-0.048 (0.08),5.47E-01,8.36E-01,No,159,0.152 (0.036) *,3.40E-05,5.78E-04,Yes,742,-0.016 (0.041),7.07E-01,8.83E-01,No,585
+cortical_thickness,CTQ_Abuse,male,L_lingual_thickavg,-0.101 (0.079),2.03E-01,7.54E-01,No,159,0.026 (0.037),4.80E-01,6.21E-01,No,742,-0.092 (0.041),2.59E-02,2.75E-01,No,585
+cortical_thickness,CTQ_Abuse,male,L_medialorbitofrontal_thickavg,0.097 (0.079),2.24E-01,7.54E-01,No,159,0.132 (0.036) *,3.15E-04,3.57E-03,Yes,742,0.107 (0.041),9.40E-03,2.75E-01,No,585
+cortical_thickness,CTQ_Abuse,male,L_middletemporal_thickavg,-0.084 (0.08),2.94E-01,7.73E-01,No,159,-0.052 (0.037),1.59E-01,3.09E-01,No,742,0.014 (0.041),7.30E-01,8.83E-01,No,585
+cortical_thickness,CTQ_Abuse,male,L_parahippocampal_thickavg,0.021 (0.08),7.93E-01,9.20E-01,No,159,0.081 (0.037),2.82E-02,1.17E-01,No,742,-0.035 (0.041),4.02E-01,7.35E-01,No,585
+cortical_thickness,CTQ_Abuse,male,L_paracentral_thickavg,0.025 (0.08),7.50E-01,9.20E-01,No,159,0.022 (0.037),5.50E-01,6.93E-01,No,742,0.02 (0.041),6.34E-01,8.83E-01,No,585
+cortical_thickness,CTQ_Abuse,male,L_parsopercularis_thickavg,-0.071 (0.08),3.73E-01,8.18E-01,No,159,-0.088 (0.037),1.71E-02,9.70E-02,No,742,-0.033 (0.041),4.20E-01,7.35E-01,No,585
+cortical_thickness,CTQ_Abuse,male,L_parsorbitalis_thickavg,0.053 (0.08),5.08E-01,8.36E-01,No,159,-0.011 (0.037),7.62E-01,8.36E-01,No,742,-0.043 (0.041),3.04E-01,7.08E-01,No,585
+cortical_thickness,CTQ_Abuse,male,L_parstriangularis_thickavg,0.113 (0.079),1.56E-01,7.54E-01,No,159,-0.026 (0.037),4.79E-01,6.21E-01,No,742,0.045 (0.041),2.76E-01,6.94E-01,No,585
+cortical_thickness,CTQ_Abuse,male,L_pericalcarine_thickavg,-0.039 (0.08),6.29E-01,8.39E-01,No,159,0.018 (0.037),6.27E-01,7.60E-01,No,742,0.016 (0.041),6.91E-01,8.83E-01,No,585
+cortical_thickness,CTQ_Abuse,male,L_postcentral_thickavg,-0.142 (0.079),7.47E-02,6.14E-01,No,159,-0.017 (0.037),6.37E-01,7.60E-01,No,742,0.005 (0.041),9.08E-01,9.36E-01,No,585
+cortical_thickness,CTQ_Abuse,male,L_posteriorcingulate_thickavg,-0.072 (0.08),3.68E-01,8.18E-01,No,159,-0.081 (0.037),2.77E-02,1.17E-01,No,742,-0.065 (0.041),1.14E-01,5.31E-01,No,585
+cortical_thickness,CTQ_Abuse,male,L_precentral_thickavg,0.089 (0.079),2.66E-01,7.54E-01,No,159,-0.058 (0.037),1.16E-01,2.55E-01,No,742,-0.02 (0.041),6.25E-01,8.83E-01,No,585
+cortical_thickness,CTQ_Abuse,male,L_precuneus_thickavg,0.132 (0.079),9.78E-02,6.38E-01,No,159,0.04 (0.037),2.79E-01,4.51E-01,No,742,-0.055 (0.041),1.80E-01,6.72E-01,No,585
+cortical_thickness,CTQ_Abuse,male,L_rostralanteriorcingulate_thickavg,0.13 (0.079),1.03E-01,6.38E-01,No,159,-0.032 (0.037),3.83E-01,5.91E-01,No,742,-0.021 (0.041),6.09E-01,8.83E-01,No,585
+cortical_thickness,CTQ_Abuse,male,L_rostralmiddlefrontal_thickavg,0.044 (0.08),5.79E-01,8.39E-01,No,159,0.034 (0.037),3.55E-01,5.61E-01,No,742,-0.0 (0.041),9.99E-01,9.99E-01,No,585
+cortical_thickness,CTQ_Abuse,male,L_superiorfrontal_thickavg,0.109 (0.079),1.73E-01,7.54E-01,No,159,0.015 (0.037),6.91E-01,7.92E-01,No,742,-0.043 (0.041),2.97E-01,7.08E-01,No,585
+cortical_thickness,CTQ_Abuse,male,L_superiorparietal_thickavg,0.025 (0.08),7.50E-01,9.20E-01,No,159,0.059 (0.037),1.05E-01,2.47E-01,No,742,0.065 (0.041),1.17E-01,5.31E-01,No,585
+cortical_thickness,CTQ_Abuse,male,L_superiortemporal_thickavg,0.124 (0.079),1.20E-01,6.79E-01,No,159,-0.019 (0.037),6.04E-01,7.47E-01,No,742,0.019 (0.041),6.42E-01,8.83E-01,No,585
+cortical_thickness,CTQ_Abuse,male,L_supramargil_thickavg,0.024 (0.08),7.67E-01,9.20E-01,No,159,-0.058 (0.037),1.14E-01,2.55E-01,No,742,-0.04 (0.041),3.38E-01,7.08E-01,No,585
+cortical_thickness,CTQ_Abuse,male,L_frontalpole_thickavg,0.028 (0.08),7.28E-01,9.20E-01,No,159,0.003 (0.037),9.26E-01,9.40E-01,No,742,0.001 (0.041),9.82E-01,9.97E-01,No,585
+cortical_thickness,CTQ_Abuse,male,L_temporalpole_thickavg,-0.002 (0.08),9.82E-01,9.82E-01,No,159,0.009 (0.037),8.03E-01,8.48E-01,No,742,0.049 (0.041),2.36E-01,6.89E-01,No,585
+cortical_thickness,CTQ_Abuse,male,L_transversetemporal_thickavg,0.074 (0.08),3.52E-01,8.18E-01,No,159,0.066 (0.037),7.44E-02,2.02E-01,No,742,0.048 (0.041),2.51E-01,6.89E-01,No,585
+cortical_thickness,CTQ_Abuse,male,L_insula_thickavg,0.173 (0.079),2.95E-02,4.40E-01,No,159,-0.062 (0.037),9.31E-02,2.26E-01,No,742,-0.051 (0.041),2.16E-01,6.88E-01,No,585
+cortical_thickness,CTQ_Abuse,male,R_bankssts_thickavg,-0.013 (0.08),8.70E-01,9.37E-01,No,159,-0.153 (0.036) *,2.83E-05,5.78E-04,Yes,742,-0.117 (0.041),4.65E-03,2.75E-01,No,585
+cortical_thickness,CTQ_Abuse,male,R_caudalanteriorcingulate_thickavg,0.104 (0.079),1.94E-01,7.54E-01,No,159,-0.006 (0.037),8.81E-01,9.08E-01,No,742,-0.014 (0.041),7.43E-01,8.83E-01,No,585
+cortical_thickness,CTQ_Abuse,male,R_caudalmiddlefrontal_thickavg,-0.023 (0.08),7.73E-01,9.20E-01,No,159,-0.049 (0.037),1.84E-01,3.39E-01,No,742,-0.086 (0.041),3.80E-02,3.23E-01,No,585
+cortical_thickness,CTQ_Abuse,male,R_cuneus_thickavg,-0.139 (0.079),8.13E-02,6.14E-01,No,159,0.017 (0.037),6.51E-01,7.64E-01,No,742,0.011 (0.041),7.85E-01,8.89E-01,No,585
+cortical_thickness,CTQ_Abuse,male,R_entorhil_thickavg,0.019 (0.08),8.11E-01,9.20E-01,No,159,-0.085 (0.037),2.04E-02,9.90E-02,No,742,-0.037 (0.041),3.75E-01,7.08E-01,No,585
+cortical_thickness,CTQ_Abuse,male,R_fusiform_thickavg,0.056 (0.08),4.85E-01,8.36E-01,No,159,0.028 (0.037),4.43E-01,6.21E-01,No,742,0.091 (0.041),2.84E-02,2.75E-01,No,585
+cortical_thickness,CTQ_Abuse,male,R_inferiorparietal_thickavg,0.089 (0.079),2.66E-01,7.54E-01,No,159,-0.067 (0.037),6.65E-02,1.90E-01,No,742,-0.038 (0.041),3.60E-01,7.08E-01,No,585
+cortical_thickness,CTQ_Abuse,male,R_inferiortemporal_thickavg,-0.011 (0.08),8.95E-01,9.37E-01,No,159,-0.026 (0.037),4.84E-01,6.21E-01,No,742,0.071 (0.041),8.65E-02,4.90E-01,No,585
+cortical_thickness,CTQ_Abuse,male,R_isthmuscingulate_thickavg,-0.008 (0.08),9.24E-01,9.37E-01,No,159,-0.118 (0.037) *,1.25E-03,9.41E-03,Yes,742,-0.029 (0.041),4.84E-01,8.22E-01,No,585
+cortical_thickness,CTQ_Abuse,male,R_lateraloccipital_thickavg,0.06 (0.08),4.51E-01,8.36E-01,No,159,0.026 (0.037),4.78E-01,6.21E-01,No,742,0.023 (0.041),5.81E-01,8.83E-01,No,585
+cortical_thickness,CTQ_Abuse,male,R_lateralorbitofrontal_thickavg,-0.008 (0.08),9.19E-01,9.37E-01,No,159,0.142 (0.036) *,1.01E-04,1.38E-03,Yes,742,0.013 (0.041),7.47E-01,8.83E-01,No,585
+cortical_thickness,CTQ_Abuse,male,R_lingual_thickavg,-0.041 (0.08),6.07E-01,8.39E-01,No,159,0.043 (0.037),2.47E-01,4.10E-01,No,742,-0.055 (0.041),1.80E-01,6.72E-01,No,585
+cortical_thickness,CTQ_Abuse,male,R_medialorbitofrontal_thickavg,-0.016 (0.08),8.39E-01,9.20E-01,No,159,0.184 (0.036) *,4.78E-07,3.25E-05,Yes,742,0.102 (0.041),1.36E-02,2.75E-01,No,585
+cortical_thickness,CTQ_Abuse,male,R_middletemporal_thickavg,-0.057 (0.08),4.76E-01,8.36E-01,No,159,-0.164 (0.036) *,6.85E-06,2.33E-04,Yes,742,-0.016 (0.041),6.99E-01,8.83E-01,No,585
+cortical_thickness,CTQ_Abuse,male,R_parahippocampal_thickavg,-0.056 (0.08),4.83E-01,8.36E-01,No,159,0.063 (0.037),8.82E-02,2.22E-01,No,742,-0.013 (0.041),7.53E-01,8.83E-01,No,585
+cortical_thickness,CTQ_Abuse,male,R_paracentral_thickavg,-0.042 (0.08),5.99E-01,8.39E-01,No,159,0.009 (0.037),8.11E-01,8.48E-01,No,742,-0.052 (0.041),2.06E-01,6.88E-01,No,585
+cortical_thickness,CTQ_Abuse,male,R_parsopercularis_thickavg,-0.053 (0.08),5.08E-01,8.36E-01,No,159,-0.046 (0.037),2.10E-01,3.66E-01,No,742,-0.046 (0.041),2.64E-01,6.92E-01,No,585
+cortical_thickness,CTQ_Abuse,male,R_parsorbitalis_thickavg,-0.16 (0.079),4.36E-02,4.95E-01,No,159,0.07 (0.037),5.63E-02,1.82E-01,No,742,-0.005 (0.041),9.04E-01,9.36E-01,No,585
+cortical_thickness,CTQ_Abuse,male,R_parstriangularis_thickavg,-0.048 (0.08),5.47E-01,8.36E-01,No,159,0.052 (0.037),1.54E-01,3.09E-01,No,742,0.023 (0.041),5.87E-01,8.83E-01,No,585
+cortical_thickness,CTQ_Abuse,male,R_pericalcarine_thickavg,-0.198 (0.078),1.23E-02,4.19E-01,No,159,-0.086 (0.037),1.86E-02,9.76E-02,No,742,-0.033 (0.041),4.21E-01,7.35E-01,No,585
+cortical_thickness,CTQ_Abuse,male,R_postcentral_thickavg,-0.216 (0.078),6.34E-03,4.19E-01,No,159,-0.072 (0.037),4.93E-02,1.68E-01,No,742,-0.008 (0.041),8.47E-01,9.14E-01,No,585
+cortical_thickness,CTQ_Abuse,male,R_posteriorcingulate_thickavg,0.039 (0.08),6.24E-01,8.39E-01,No,159,-0.014 (0.037),6.99E-01,7.92E-01,No,742,-0.039 (0.041),3.43E-01,7.08E-01,No,585
+cortical_thickness,CTQ_Abuse,male,R_precentral_thickavg,-0.066 (0.08),4.09E-01,8.36E-01,No,159,-0.053 (0.037),1.51E-01,3.09E-01,No,742,0.009 (0.041),8.32E-01,9.13E-01,No,585
+cortical_thickness,CTQ_Abuse,male,R_precuneus_thickavg,0.108 (0.079),1.76E-01,7.54E-01,No,159,0.091 (0.037),1.34E-02,8.31E-02,No,742,0.038 (0.041),3.60E-01,7.08E-01,No,585
+cortical_thickness,CTQ_Abuse,male,R_rostralanteriorcingulate_thickavg,0.09 (0.079),2.57E-01,7.54E-01,No,159,0.01 (0.037),7.86E-01,8.48E-01,No,742,0.012 (0.041),7.81E-01,8.89E-01,No,585
+cortical_thickness,CTQ_Abuse,male,R_rostralmiddlefrontal_thickavg,-0.181 (0.078),2.21E-02,4.40E-01,No,159,0.067 (0.037),6.72E-02,1.90E-01,No,742,-0.022 (0.041),5.98E-01,8.83E-01,No,585
+cortical_thickness,CTQ_Abuse,male,R_superiorfrontal_thickavg,0.076 (0.08),3.42E-01,8.18E-01,No,159,0.031 (0.037),4.06E-01,6.13E-01,No,742,-0.076 (0.041),6.49E-02,4.42E-01,No,585
+cortical_thickness,CTQ_Abuse,male,R_superiorparietal_thickavg,0.091 (0.079),2.52E-01,7.54E-01,No,159,0.049 (0.037),1.82E-01,3.39E-01,No,742,0.095 (0.041),2.13E-02,2.75E-01,No,585
+cortical_thickness,CTQ_Abuse,male,R_superiortemporal_thickavg,0.017 (0.08),8.27E-01,9.20E-01,No,159,-0.075 (0.037),4.19E-02,1.50E-01,No,742,-0.027 (0.041),5.22E-01,8.45E-01,No,585
+cortical_thickness,CTQ_Abuse,male,R_supramargil_thickavg,-0.096 (0.079),2.28E-01,7.54E-01,No,159,-0.123 (0.036) *,7.56E-04,6.42E-03,Yes,742,-0.061 (0.041),1.44E-01,6.11E-01,No,585
+cortical_thickness,CTQ_Abuse,male,R_frontalpole_thickavg,-0.019 (0.08),8.11E-01,9.20E-01,No,159,0.068 (0.037),6.41E-02,1.90E-01,No,742,0.018 (0.041),6.57E-01,8.83E-01,No,585
+cortical_thickness,CTQ_Abuse,male,R_temporalpole_thickavg,-0.047 (0.08),5.53E-01,8.36E-01,No,159,-0.027 (0.037),4.65E-01,6.21E-01,No,742,0.055 (0.041),1.88E-01,6.72E-01,No,585
+cortical_thickness,CTQ_Abuse,male,R_transversetemporal_thickavg,0.048 (0.08),5.44E-01,8.36E-01,No,159,0.078 (0.037),3.29E-02,1.24E-01,No,742,0.051 (0.041),2.22E-01,6.88E-01,No,585
+cortical_thickness,CTQ_Abuse,male,R_insula_thickavg,0.17 (0.079),3.24E-02,4.40E-01,No,159,-0.052 (0.037),1.55E-01,3.09E-01,No,742,0.006 (0.041),8.83E-01,9.36E-01,No,585
+cortical_thickness,CTQ_Neglect,female,L_bankssts_thickavg,0.031 (0.073),6.75E-01,9.50E-01,No,189,-0.023 (0.029),4.39E-01,7.01E-01,No,1163,0.026 (0.034),4.47E-01,5.73E-01,No,864
+cortical_thickness,CTQ_Neglect,female,L_caudalanteriorcingulate_thickavg,0.01 (0.073),8.88E-01,9.50E-01,No,189,-0.071 (0.029),1.51E-02,2.39E-01,No,1163,-0.036 (0.034),2.96E-01,4.68E-01,No,864
+cortical_thickness,CTQ_Neglect,female,L_caudalmiddlefrontal_thickavg,-0.007 (0.073),9.19E-01,9.50E-01,No,189,0.031 (0.029),2.86E-01,6.69E-01,No,1163,0.031 (0.034),3.60E-01,5.09E-01,No,864
+cortical_thickness,CTQ_Neglect,female,L_cuneus_thickavg,0.091 (0.073),2.11E-01,9.50E-01,No,189,-0.003 (0.029),9.19E-01,9.61E-01,No,1163,-0.071 (0.034),3.59E-02,1.99E-01,No,864
+cortical_thickness,CTQ_Neglect,female,L_entorhil_thickavg,0.105 (0.073),1.52E-01,9.50E-01,No,189,-0.064 (0.029),2.81E-02,2.39E-01,No,1163,0.044 (0.034),2.01E-01,3.93E-01,No,864
+cortical_thickness,CTQ_Neglect,female,L_fusiform_thickavg,0.031 (0.073),6.72E-01,9.50E-01,No,189,-0.006 (0.029),8.30E-01,9.31E-01,No,1163,0.034 (0.034),3.23E-01,4.68E-01,No,864
+cortical_thickness,CTQ_Neglect,female,L_inferiorparietal_thickavg,0.011 (0.073),8.85E-01,9.50E-01,No,189,-0.035 (0.029),2.33E-01,6.59E-01,No,1163,-0.035 (0.034),3.03E-01,4.68E-01,No,864
+cortical_thickness,CTQ_Neglect,female,L_inferiortemporal_thickavg,-0.03 (0.073),6.82E-01,9.50E-01,No,189,0.002 (0.029),9.41E-01,9.70E-01,No,1163,0.072 (0.034),3.33E-02,1.99E-01,No,864
+cortical_thickness,CTQ_Neglect,female,L_isthmuscingulate_thickavg,0.054 (0.073),4.57E-01,9.50E-01,No,189,-0.041 (0.029),1.64E-01,5.30E-01,No,1163,-0.052 (0.034),1.28E-01,2.91E-01,No,864
+cortical_thickness,CTQ_Neglect,female,L_lateraloccipital_thickavg,0.058 (0.073),4.31E-01,9.50E-01,No,189,-0.021 (0.029),4.66E-01,7.11E-01,No,1163,-0.04 (0.034),2.46E-01,4.18E-01,No,864
+cortical_thickness,CTQ_Neglect,female,L_lateralorbitofrontal_thickavg,0.045 (0.073),5.36E-01,9.50E-01,No,189,-0.023 (0.029),4.41E-01,7.01E-01,No,1163,0.001 (0.034),9.72E-01,9.81E-01,No,864
+cortical_thickness,CTQ_Neglect,female,L_lingual_thickavg,0.121 (0.073),9.63E-02,9.50E-01,No,189,-0.027 (0.029),3.64E-01,6.69E-01,No,1163,-0.124 (0.034) *,2.49E-04,1.69E-02,Yes,864
+cortical_thickness,CTQ_Neglect,female,L_medialorbitofrontal_thickavg,0.034 (0.073),6.40E-01,9.50E-01,No,189,0.048 (0.029),9.94E-02,4.83E-01,No,1163,0.063 (0.034),6.59E-02,1.99E-01,No,864
+cortical_thickness,CTQ_Neglect,female,L_middletemporal_thickavg,0.003 (0.073),9.64E-01,9.64E-01,No,189,-0.011 (0.029),7.14E-01,8.55E-01,No,1163,0.043 (0.034),2.08E-01,3.93E-01,No,864
+cortical_thickness,CTQ_Neglect,female,L_parahippocampal_thickavg,-0.007 (0.073),9.25E-01,9.50E-01,No,189,-0.021 (0.029),4.72E-01,7.11E-01,No,1163,-0.019 (0.034),5.78E-01,6.89E-01,No,864
+cortical_thickness,CTQ_Neglect,female,L_paracentral_thickavg,-0.03 (0.073),6.81E-01,9.50E-01,No,189,0.023 (0.029),4.38E-01,7.01E-01,No,1163,-0.028 (0.034),4.17E-01,5.53E-01,No,864
+cortical_thickness,CTQ_Neglect,female,L_parsopercularis_thickavg,-0.006 (0.073),9.34E-01,9.50E-01,No,189,0.001 (0.029),9.67E-01,9.81E-01,No,1163,-0.03 (0.034),3.83E-01,5.31E-01,No,864
+cortical_thickness,CTQ_Neglect,female,L_parsorbitalis_thickavg,0.007 (0.073),9.22E-01,9.50E-01,No,189,-0.023 (0.029),4.37E-01,7.01E-01,No,1163,0.085 (0.034),1.26E-02,1.43E-01,No,864
+cortical_thickness,CTQ_Neglect,female,L_parstriangularis_thickavg,-0.047 (0.073),5.19E-01,9.50E-01,No,189,0.02 (0.029),4.91E-01,7.11E-01,No,1163,0.063 (0.034),6.27E-02,1.99E-01,No,864
+cortical_thickness,CTQ_Neglect,female,L_pericalcarine_thickavg,0.069 (0.073),3.46E-01,9.50E-01,No,189,-0.019 (0.029),5.11E-01,7.24E-01,No,1163,-0.068 (0.034),4.44E-02,1.99E-01,No,864
+cortical_thickness,CTQ_Neglect,female,L_postcentral_thickavg,-0.075 (0.073),3.05E-01,9.50E-01,No,189,-0.042 (0.029),1.53E-01,5.20E-01,No,1163,0.028 (0.034),4.19E-01,5.53E-01,No,864
+cortical_thickness,CTQ_Neglect,female,L_posteriorcingulate_thickavg,-0.012 (0.073),8.74E-01,9.50E-01,No,189,-0.057 (0.029),5.07E-02,3.13E-01,No,1163,-0.111 (0.034) *,1.04E-03,3.54E-02,Yes,864
+cortical_thickness,CTQ_Neglect,female,L_precentral_thickavg,-0.11 (0.073),1.33E-01,9.50E-01,No,189,-0.01 (0.029),7.23E-01,8.55E-01,No,1163,-0.005 (0.034),8.74E-01,9.14E-01,No,864
+cortical_thickness,CTQ_Neglect,female,L_precuneus_thickavg,0.04 (0.073),5.85E-01,9.50E-01,No,189,-0.019 (0.029),5.27E-01,7.32E-01,No,1163,-0.082 (0.034),1.64E-02,1.60E-01,No,864
+cortical_thickness,CTQ_Neglect,female,L_rostralanteriorcingulate_thickavg,0.047 (0.073),5.22E-01,9.50E-01,No,189,-0.042 (0.029),1.52E-01,5.20E-01,No,1163,0.062 (0.034),7.03E-02,1.99E-01,No,864
+cortical_thickness,CTQ_Neglect,female,L_rostralmiddlefrontal_thickavg,-0.054 (0.073),4.58E-01,9.50E-01,No,189,0.066 (0.029),2.46E-02,2.39E-01,No,1163,0.009 (0.034),7.90E-01,8.54E-01,No,864
+cortical_thickness,CTQ_Neglect,female,L_superiorfrontal_thickavg,0.088 (0.073),2.27E-01,9.50E-01,No,189,0.081 (0.029),5.57E-03,1.89E-01,No,1163,0.034 (0.034),3.15E-01,4.68E-01,No,864
+cortical_thickness,CTQ_Neglect,female,L_superiorparietal_thickavg,0.026 (0.073),7.19E-01,9.50E-01,No,189,0.022 (0.029),4.43E-01,7.01E-01,No,1163,-0.043 (0.034),2.04E-01,3.93E-01,No,864
+cortical_thickness,CTQ_Neglect,female,L_superiortemporal_thickavg,-0.032 (0.073),6.66E-01,9.50E-01,No,189,0.031 (0.029),2.92E-01,6.69E-01,No,1163,-0.022 (0.034),5.11E-01,6.44E-01,No,864
+cortical_thickness,CTQ_Neglect,female,L_supramargil_thickavg,-0.073 (0.073),3.17E-01,9.50E-01,No,189,0.011 (0.029),7.04E-01,8.55E-01,No,1163,-0.09 (0.034),8.18E-03,1.32E-01,No,864
+cortical_thickness,CTQ_Neglect,female,L_frontalpole_thickavg,0.106 (0.073),1.45E-01,9.50E-01,No,189,0.047 (0.029),1.12E-01,4.88E-01,No,1163,0.027 (0.034),4.23E-01,5.53E-01,No,864
+cortical_thickness,CTQ_Neglect,female,L_temporalpole_thickavg,0.02 (0.073),7.87E-01,9.50E-01,No,189,0.004 (0.029),8.87E-01,9.42E-01,No,1163,0.035 (0.034),3.06E-01,4.68E-01,No,864
+cortical_thickness,CTQ_Neglect,female,L_transversetemporal_thickavg,0.13 (0.073),7.51E-02,9.50E-01,No,189,-0.014 (0.029),6.21E-01,8.29E-01,No,1163,-0.01 (0.034),7.77E-01,8.54E-01,No,864
+cortical_thickness,CTQ_Neglect,female,L_insula_thickavg,0.072 (0.073),3.26E-01,9.50E-01,No,189,-0.055 (0.029),6.03E-02,3.42E-01,No,1163,0.05 (0.034),1.40E-01,2.97E-01,No,864
+cortical_thickness,CTQ_Neglect,female,R_bankssts_thickavg,0.017 (0.073),8.13E-01,9.50E-01,No,189,-0.014 (0.029),6.35E-01,8.30E-01,No,1163,-0.07 (0.034),3.89E-02,1.99E-01,No,864
+cortical_thickness,CTQ_Neglect,female,R_caudalanteriorcingulate_thickavg,-0.006 (0.073),9.36E-01,9.50E-01,No,189,-0.028 (0.029),3.41E-01,6.69E-01,No,1163,0.009 (0.034),7.91E-01,8.54E-01,No,864
+cortical_thickness,CTQ_Neglect,female,R_caudalmiddlefrontal_thickavg,0.025 (0.073),7.28E-01,9.50E-01,No,189,-0.005 (0.029),8.75E-01,9.42E-01,No,1163,-0.066 (0.034),5.13E-02,1.99E-01,No,864
+cortical_thickness,CTQ_Neglect,female,R_cuneus_thickavg,0.096 (0.073),1.88E-01,9.50E-01,No,189,-0.027 (0.029),3.52E-01,6.69E-01,No,1163,-0.04 (0.034),2.46E-01,4.18E-01,No,864
+cortical_thickness,CTQ_Neglect,female,R_entorhil_thickavg,-0.013 (0.073),8.58E-01,9.50E-01,No,189,-0.1 (0.029) *,6.55E-04,4.45E-02,Yes,1163,-0.002 (0.034),9.54E-01,9.81E-01,No,864
+cortical_thickness,CTQ_Neglect,female,R_fusiform_thickavg,0.027 (0.073),7.08E-01,9.50E-01,No,189,0.029 (0.029),3.31E-01,6.69E-01,No,1163,0.04 (0.034),2.45E-01,4.18E-01,No,864
+cortical_thickness,CTQ_Neglect,female,R_inferiorparietal_thickavg,-0.059 (0.073),4.17E-01,9.50E-01,No,189,0.029 (0.029),3.20E-01,6.69E-01,No,1163,0.037 (0.034),2.82E-01,4.68E-01,No,864
+cortical_thickness,CTQ_Neglect,female,R_inferiortemporal_thickavg,-0.049 (0.073),4.99E-01,9.50E-01,No,189,-0.012 (0.029),6.80E-01,8.55E-01,No,1163,0.071 (0.034),3.72E-02,1.99E-01,No,864
+cortical_thickness,CTQ_Neglect,female,R_isthmuscingulate_thickavg,-0.035 (0.073),6.37E-01,9.50E-01,No,189,-0.005 (0.029),8.56E-01,9.39E-01,No,1163,-0.065 (0.034),5.65E-02,1.99E-01,No,864
+cortical_thickness,CTQ_Neglect,female,R_lateraloccipital_thickavg,0.065 (0.073),3.71E-01,9.50E-01,No,189,-0.036 (0.029),2.20E-01,6.51E-01,No,1163,0.06 (0.034),7.97E-02,2.17E-01,No,864
+cortical_thickness,CTQ_Neglect,female,R_lateralorbitofrontal_thickavg,0.059 (0.073),4.23E-01,9.50E-01,No,189,0.012 (0.029),6.81E-01,8.55E-01,No,1163,0.075 (0.034),2.67E-02,1.99E-01,No,864
+cortical_thickness,CTQ_Neglect,female,R_lingual_thickavg,0.091 (0.073),2.12E-01,9.50E-01,No,189,-0.023 (0.029),4.26E-01,7.01E-01,No,1163,-0.088 (0.034),9.73E-03,1.32E-01,No,864
+cortical_thickness,CTQ_Neglect,female,R_medialorbitofrontal_thickavg,0.021 (0.073),7.75E-01,9.50E-01,No,189,0.059 (0.029),4.40E-02,3.13E-01,No,1163,0.062 (0.034),6.85E-02,1.99E-01,No,864
+cortical_thickness,CTQ_Neglect,female,R_middletemporal_thickavg,-0.09 (0.073),2.20E-01,9.50E-01,No,189,-0.066 (0.029),2.42E-02,2.39E-01,No,1163,-0.021 (0.034),5.31E-01,6.56E-01,No,864
+cortical_thickness,CTQ_Neglect,female,R_parahippocampal_thickavg,-0.006 (0.073),9.31E-01,9.50E-01,No,189,-0.049 (0.029),9.51E-02,4.83E-01,No,1163,-0.04 (0.034),2.38E-01,4.18E-01,No,864
+cortical_thickness,CTQ_Neglect,female,R_paracentral_thickavg,-0.107 (0.073),1.43E-01,9.50E-01,No,189,0.027 (0.029),3.59E-01,6.69E-01,No,1163,-0.015 (0.034),6.63E-01,7.77E-01,No,864
+cortical_thickness,CTQ_Neglect,female,R_parsopercularis_thickavg,-0.069 (0.073),3.48E-01,9.50E-01,No,189,-0.033 (0.029),2.60E-01,6.69E-01,No,1163,-0.057 (0.034),9.42E-02,2.40E-01,No,864
+cortical_thickness,CTQ_Neglect,female,R_parsorbitalis_thickavg,-0.044 (0.073),5.51E-01,9.50E-01,No,189,-0.037 (0.029),2.04E-01,6.29E-01,No,1163,0.065 (0.034),5.77E-02,1.99E-01,No,864
+cortical_thickness,CTQ_Neglect,female,R_parstriangularis_thickavg,0.036 (0.073),6.20E-01,9.50E-01,No,189,-0.02 (0.029),4.90E-01,7.11E-01,No,1163,0.051 (0.034),1.33E-01,2.92E-01,No,864
+cortical_thickness,CTQ_Neglect,female,R_pericalcarine_thickavg,0.017 (0.073),8.14E-01,9.50E-01,No,189,-0.033 (0.029),2.63E-01,6.69E-01,No,1163,-0.089 (0.034),8.97E-03,1.32E-01,No,864
+cortical_thickness,CTQ_Neglect,female,R_postcentral_thickavg,-0.065 (0.073),3.77E-01,9.50E-01,No,189,-0.006 (0.029),8.35E-01,9.31E-01,No,1163,0.012 (0.034),7.33E-01,8.31E-01,No,864
+cortical_thickness,CTQ_Neglect,female,R_posteriorcingulate_thickavg,0.012 (0.073),8.73E-01,9.50E-01,No,189,0.01 (0.029),7.42E-01,8.55E-01,No,1163,-0.067 (0.034),4.99E-02,1.99E-01,No,864
+cortical_thickness,CTQ_Neglect,female,R_precentral_thickavg,-0.132 (0.072),6.94E-02,9.50E-01,No,189,-0.031 (0.029),2.94E-01,6.69E-01,No,1163,-0.053 (0.034),1.19E-01,2.80E-01,No,864
+cortical_thickness,CTQ_Neglect,female,R_precuneus_thickavg,-0.046 (0.073),5.32E-01,9.50E-01,No,189,0.043 (0.029),1.46E-01,5.20E-01,No,1163,-0.065 (0.034),5.73E-02,1.99E-01,No,864
+cortical_thickness,CTQ_Neglect,female,R_rostralanteriorcingulate_thickavg,-0.073 (0.073),3.20E-01,9.50E-01,No,189,-0.046 (0.029),1.15E-01,4.88E-01,No,1163,0.047 (0.034),1.67E-01,3.44E-01,No,864
+cortical_thickness,CTQ_Neglect,female,R_rostralmiddlefrontal_thickavg,-0.012 (0.073),8.73E-01,9.50E-01,No,189,0.069 (0.029),1.88E-02,2.39E-01,No,1163,0.034 (0.034),3.18E-01,4.68E-01,No,864
+cortical_thickness,CTQ_Neglect,female,R_superiorfrontal_thickavg,0.106 (0.073),1.45E-01,9.50E-01,No,189,0.045 (0.029),1.28E-01,5.14E-01,No,1163,0.001 (0.034),9.81E-01,9.81E-01,No,864
+cortical_thickness,CTQ_Neglect,female,R_superiorparietal_thickavg,-0.079 (0.073),2.83E-01,9.50E-01,No,189,0.058 (0.029),4.96E-02,3.13E-01,No,1163,0.012 (0.034),7.19E-01,8.29E-01,No,864
+cortical_thickness,CTQ_Neglect,female,R_superiortemporal_thickavg,-0.041 (0.073),5.75E-01,9.50E-01,No,189,-0.028 (0.029),3.45E-01,6.69E-01,No,1163,-0.066 (0.034),5.16E-02,1.99E-01,No,864
+cortical_thickness,CTQ_Neglect,female,R_supramargil_thickavg,-0.068 (0.073),3.53E-01,9.50E-01,No,189,0.016 (0.029),5.97E-01,8.12E-01,No,1163,-0.057 (0.034),9.54E-02,2.40E-01,No,864
+cortical_thickness,CTQ_Neglect,female,R_frontalpole_thickavg,-0.037 (0.073),6.11E-01,9.50E-01,No,189,0.074 (0.029),1.21E-02,2.39E-01,No,1163,0.019 (0.034),5.69E-01,6.89E-01,No,864
+cortical_thickness,CTQ_Neglect,female,R_temporalpole_thickavg,0.077 (0.073),2.94E-01,9.50E-01,No,189,-0.028 (0.029),3.35E-01,6.69E-01,No,1163,0.063 (0.034),6.57E-02,1.99E-01,No,864
+cortical_thickness,CTQ_Neglect,female,R_transversetemporal_thickavg,0.015 (0.073),8.37E-01,9.50E-01,No,189,0.001 (0.029),9.82E-01,9.82E-01,No,1163,0.006 (0.034),8.59E-01,9.12E-01,No,864
+cortical_thickness,CTQ_Neglect,female,R_insula_thickavg,-0.017 (0.073),8.20E-01,9.50E-01,No,189,-0.01 (0.029),7.35E-01,8.55E-01,No,1163,0.056 (0.034),1.02E-01,2.49E-01,No,864
+cortical_thickness,CTQ_Neglect,male,L_bankssts_thickavg,-0.092 (0.079),2.49E-01,6.60E-01,No,159,-0.074 (0.037),4.44E-02,3.76E-01,No,742,-0.029 (0.041),4.89E-01,9.64E-01,No,585
+cortical_thickness,CTQ_Neglect,male,L_caudalanteriorcingulate_thickavg,0.091 (0.079),2.53E-01,6.60E-01,No,159,0.055 (0.037),1.34E-01,4.59E-01,No,742,0.0 (0.041),9.92E-01,9.97E-01,No,585
+cortical_thickness,CTQ_Neglect,male,L_caudalmiddlefrontal_thickavg,-0.005 (0.08),9.55E-01,9.89E-01,No,159,-0.015 (0.037),6.83E-01,8.77E-01,No,742,-0.056 (0.041),1.74E-01,7.98E-01,No,585
+cortical_thickness,CTQ_Neglect,male,L_cuneus_thickavg,-0.006 (0.08),9.41E-01,9.89E-01,No,159,0.039 (0.037),2.88E-01,6.12E-01,No,742,0.02 (0.041),6.32E-01,9.64E-01,No,585
+cortical_thickness,CTQ_Neglect,male,L_entorhil_thickavg,0.119 (0.079),1.34E-01,5.43E-01,No,159,-0.042 (0.037),2.50E-01,5.66E-01,No,742,-0.0 (0.041),9.97E-01,9.97E-01,No,585
+cortical_thickness,CTQ_Neglect,male,L_fusiform_thickavg,0.119 (0.079),1.35E-01,5.43E-01,No,159,0.035 (0.037),3.37E-01,6.55E-01,No,742,0.079 (0.041),5.55E-02,7.98E-01,No,585
+cortical_thickness,CTQ_Neglect,male,L_inferiorparietal_thickavg,0.095 (0.079),2.32E-01,6.58E-01,No,159,-0.004 (0.037),9.23E-01,9.60E-01,No,742,0.007 (0.041),8.67E-01,9.64E-01,No,585
+cortical_thickness,CTQ_Neglect,male,L_inferiortemporal_thickavg,0.109 (0.079),1.71E-01,6.11E-01,No,159,-0.001 (0.037),9.76E-01,9.76E-01,No,742,0.051 (0.041),2.20E-01,7.98E-01,No,585
+cortical_thickness,CTQ_Neglect,male,L_isthmuscingulate_thickavg,0.043 (0.08),5.87E-01,9.22E-01,No,159,-0.058 (0.037),1.17E-01,4.59E-01,No,742,0.007 (0.041),8.72E-01,9.64E-01,No,585
+cortical_thickness,CTQ_Neglect,male,L_lateraloccipital_thickavg,0.126 (0.079),1.15E-01,5.43E-01,No,159,-0.006 (0.037),8.76E-01,9.60E-01,No,742,0.003 (0.041),9.42E-01,9.86E-01,No,585
+cortical_thickness,CTQ_Neglect,male,L_lateralorbitofrontal_thickavg,-0.021 (0.08),7.88E-01,9.89E-01,No,159,0.032 (0.037),3.84E-01,6.68E-01,No,742,-0.003 (0.041),9.41E-01,9.86E-01,No,585
+cortical_thickness,CTQ_Neglect,male,L_lingual_thickavg,-0.119 (0.079),1.36E-01,5.43E-01,No,159,0.045 (0.037),2.16E-01,5.08E-01,No,742,-0.049 (0.041),2.41E-01,7.98E-01,No,585
+cortical_thickness,CTQ_Neglect,male,L_medialorbitofrontal_thickavg,0.134 (0.079),9.19E-02,5.21E-01,No,159,0.035 (0.037),3.37E-01,6.55E-01,No,742,0.021 (0.041),6.16E-01,9.64E-01,No,585
+cortical_thickness,CTQ_Neglect,male,L_middletemporal_thickavg,0.018 (0.08),8.24E-01,9.89E-01,No,159,-0.048 (0.037),1.89E-01,4.95E-01,No,742,0.027 (0.041),5.12E-01,9.64E-01,No,585
+cortical_thickness,CTQ_Neglect,male,L_parahippocampal_thickavg,0.008 (0.08),9.16E-01,9.89E-01,No,159,0.074 (0.037),4.28E-02,3.76E-01,No,742,-0.056 (0.041),1.79E-01,7.98E-01,No,585
+cortical_thickness,CTQ_Neglect,male,L_paracentral_thickavg,-0.075 (0.08),3.50E-01,7.67E-01,No,159,-0.053 (0.037),1.46E-01,4.60E-01,No,742,0.008 (0.041),8.45E-01,9.64E-01,No,585
+cortical_thickness,CTQ_Neglect,male,L_parsopercularis_thickavg,-0.128 (0.079),1.09E-01,5.43E-01,No,159,-0.065 (0.037),7.78E-02,4.59E-01,No,742,-0.059 (0.041),1.57E-01,7.98E-01,No,585
+cortical_thickness,CTQ_Neglect,male,L_parsorbitalis_thickavg,-0.001 (0.08),9.89E-01,9.89E-01,No,159,-0.015 (0.037),6.80E-01,8.77E-01,No,742,-0.012 (0.041),7.80E-01,9.64E-01,No,585
+cortical_thickness,CTQ_Neglect,male,L_parstriangularis_thickavg,0.014 (0.08),8.62E-01,9.89E-01,No,159,-0.023 (0.037),5.39E-01,8.52E-01,No,742,-0.015 (0.041),7.16E-01,9.64E-01,No,585
+cortical_thickness,CTQ_Neglect,male,L_pericalcarine_thickavg,-0.041 (0.08),6.08E-01,9.22E-01,No,159,0.015 (0.037),6.75E-01,8.77E-01,No,742,-0.008 (0.041),8.42E-01,9.64E-01,No,585
+cortical_thickness,CTQ_Neglect,male,L_postcentral_thickavg,-0.138 (0.079),8.31E-02,5.21E-01,No,159,-0.045 (0.037),2.17E-01,5.08E-01,No,742,0.006 (0.041),8.93E-01,9.64E-01,No,585
+cortical_thickness,CTQ_Neglect,male,L_posteriorcingulate_thickavg,-0.001 (0.08),9.89E-01,9.89E-01,No,159,-0.018 (0.037),6.20E-01,8.77E-01,No,742,-0.07 (0.041),9.29E-02,7.98E-01,No,585
+cortical_thickness,CTQ_Neglect,male,L_precentral_thickavg,-0.041 (0.08),6.10E-01,9.22E-01,No,159,-0.073 (0.037),4.80E-02,3.76E-01,No,742,-0.007 (0.041),8.64E-01,9.64E-01,No,585
+cortical_thickness,CTQ_Neglect,male,L_precuneus_thickavg,0.031 (0.08),6.94E-01,9.57E-01,No,159,0.049 (0.037),1.86E-01,4.95E-01,No,742,-0.048 (0.041),2.44E-01,7.98E-01,No,585
+cortical_thickness,CTQ_Neglect,male,L_rostralanteriorcingulate_thickavg,0.185 (0.078),1.98E-02,3.36E-01,No,159,-0.009 (0.037),8.00E-01,8.92E-01,No,742,0.006 (0.041),8.87E-01,9.64E-01,No,585
+cortical_thickness,CTQ_Neglect,male,L_rostralmiddlefrontal_thickavg,-0.054 (0.08),5.02E-01,9.08E-01,No,159,0.028 (0.037),4.40E-01,7.30E-01,No,742,0.013 (0.041),7.61E-01,9.64E-01,No,585
+cortical_thickness,CTQ_Neglect,male,L_superiorfrontal_thickavg,-0.052 (0.08),5.11E-01,9.08E-01,No,159,0.024 (0.037),5.20E-01,8.41E-01,No,742,-0.077 (0.041),6.25E-02,7.98E-01,No,585
+cortical_thickness,CTQ_Neglect,male,L_superiorparietal_thickavg,-0.025 (0.08),7.56E-01,9.70E-01,No,159,0.05 (0.037),1.71E-01,4.95E-01,No,742,0.021 (0.041),6.20E-01,9.64E-01,No,585
+cortical_thickness,CTQ_Neglect,male,L_superiortemporal_thickavg,0.017 (0.08),8.33E-01,9.89E-01,No,159,-0.034 (0.037),3.60E-01,6.68E-01,No,742,0.057 (0.041),1.65E-01,7.98E-01,No,585
+cortical_thickness,CTQ_Neglect,male,L_supramargil_thickavg,0.084 (0.08),2.90E-01,6.81E-01,No,159,0.003 (0.037),9.35E-01,9.60E-01,No,742,0.032 (0.041),4.45E-01,9.64E-01,No,585
+cortical_thickness,CTQ_Neglect,male,L_frontalpole_thickavg,0.085 (0.08),2.88E-01,6.81E-01,No,159,0.021 (0.037),5.67E-01,8.76E-01,No,742,-0.021 (0.041),6.13E-01,9.64E-01,No,585
+cortical_thickness,CTQ_Neglect,male,L_temporalpole_thickavg,-0.026 (0.08),7.46E-01,9.70E-01,No,159,-0.033 (0.037),3.73E-01,6.68E-01,No,742,0.051 (0.041),2.16E-01,7.98E-01,No,585
+cortical_thickness,CTQ_Neglect,male,L_transversetemporal_thickavg,0.135 (0.079),8.97E-02,5.21E-01,No,159,0.019 (0.037),6.07E-01,8.77E-01,No,742,0.019 (0.041),6.44E-01,9.64E-01,No,585
+cortical_thickness,CTQ_Neglect,male,L_insula_thickavg,0.209 (0.078),8.15E-03,2.77E-01,No,159,-0.037 (0.037),3.19E-01,6.55E-01,No,742,-0.008 (0.041),8.40E-01,9.64E-01,No,585
+cortical_thickness,CTQ_Neglect,male,R_bankssts_thickavg,0.03 (0.08),7.04E-01,9.57E-01,No,159,-0.086 (0.037),1.89E-02,3.76E-01,No,742,-0.062 (0.041),1.31E-01,7.98E-01,No,585
+cortical_thickness,CTQ_Neglect,male,R_caudalanteriorcingulate_thickavg,0.1 (0.079),2.10E-01,6.22E-01,No,159,-0.01 (0.037),7.87E-01,8.92E-01,No,742,0.02 (0.041),6.25E-01,9.64E-01,No,585
+cortical_thickness,CTQ_Neglect,male,R_caudalmiddlefrontal_thickavg,-0.059 (0.08),4.64E-01,9.08E-01,No,159,-0.002 (0.037),9.46E-01,9.60E-01,No,742,-0.075 (0.041),7.15E-02,7.98E-01,No,585
+cortical_thickness,CTQ_Neglect,male,R_cuneus_thickavg,-0.05 (0.08),5.33E-01,9.08E-01,No,159,0.055 (0.037),1.35E-01,4.59E-01,No,742,0.065 (0.041),1.18E-01,7.98E-01,No,585
+cortical_thickness,CTQ_Neglect,male,R_entorhil_thickavg,0.055 (0.08),4.93E-01,9.08E-01,No,159,-0.08 (0.037),3.02E-02,3.76E-01,No,742,-0.018 (0.041),6.60E-01,9.64E-01,No,585
+cortical_thickness,CTQ_Neglect,male,R_fusiform_thickavg,0.072 (0.08),3.67E-01,7.80E-01,No,159,0.004 (0.037),9.16E-01,9.60E-01,No,742,0.047 (0.041),2.58E-01,7.98E-01,No,585
+cortical_thickness,CTQ_Neglect,male,R_inferiorparietal_thickavg,0.084 (0.08),2.90E-01,6.81E-01,No,159,0.047 (0.037),2.02E-01,5.08E-01,No,742,-0.025 (0.041),5.53E-01,9.64E-01,No,585
+cortical_thickness,CTQ_Neglect,male,R_inferiortemporal_thickavg,0.012 (0.08),8.82E-01,9.89E-01,No,159,-0.013 (0.037),7.17E-01,8.87E-01,No,742,0.048 (0.041),2.50E-01,7.98E-01,No,585
+cortical_thickness,CTQ_Neglect,male,R_isthmuscingulate_thickavg,0.05 (0.08),5.34E-01,9.08E-01,No,159,-0.056 (0.037),1.26E-01,4.59E-01,No,742,0.022 (0.041),5.89E-01,9.64E-01,No,585
+cortical_thickness,CTQ_Neglect,male,R_lateraloccipital_thickavg,0.107 (0.079),1.80E-01,6.12E-01,No,159,0.016 (0.037),6.63E-01,8.77E-01,No,742,0.06 (0.041),1.49E-01,7.98E-01,No,585
+cortical_thickness,CTQ_Neglect,male,R_lateralorbitofrontal_thickavg,0.026 (0.08),7.41E-01,9.70E-01,No,159,0.04 (0.037),2.72E-01,5.96E-01,No,742,0.008 (0.041),8.45E-01,9.64E-01,No,585
+cortical_thickness,CTQ_Neglect,male,R_lingual_thickavg,-0.166 (0.079),3.70E-02,4.19E-01,No,159,0.057 (0.037),1.20E-01,4.59E-01,No,742,0.038 (0.041),3.59E-01,9.64E-01,No,585
+cortical_thickness,CTQ_Neglect,male,R_medialorbitofrontal_thickavg,-0.011 (0.08),8.94E-01,9.89E-01,No,159,0.078 (0.037),3.44E-02,3.76E-01,No,742,0.001 (0.041),9.76E-01,9.97E-01,No,585
+cortical_thickness,CTQ_Neglect,male,R_middletemporal_thickavg,-0.001 (0.08),9.89E-01,9.89E-01,No,159,-0.146 (0.036) *,6.82E-05,4.63E-03,Yes,742,0.018 (0.041),6.65E-01,9.64E-01,No,585
+cortical_thickness,CTQ_Neglect,male,R_parahippocampal_thickavg,0.003 (0.08),9.70E-01,9.89E-01,No,159,0.059 (0.037),1.07E-01,4.59E-01,No,742,0.023 (0.041),5.80E-01,9.64E-01,No,585
+cortical_thickness,CTQ_Neglect,male,R_paracentral_thickavg,-0.114 (0.079),1.52E-01,5.75E-01,No,159,-0.032 (0.037),3.78E-01,6.68E-01,No,742,-0.014 (0.041),7.37E-01,9.64E-01,No,585
+cortical_thickness,CTQ_Neglect,male,R_parsopercularis_thickavg,-0.14 (0.079),7.78E-02,5.21E-01,No,159,-0.018 (0.037),6.25E-01,8.77E-01,No,742,-0.035 (0.041),3.91E-01,9.64E-01,No,585
+cortical_thickness,CTQ_Neglect,male,R_parsorbitalis_thickavg,-0.103 (0.079),1.98E-01,6.22E-01,No,159,0.05 (0.037),1.75E-01,4.95E-01,No,742,-0.072 (0.041),8.38E-02,7.98E-01,No,585
+cortical_thickness,CTQ_Neglect,male,R_parstriangularis_thickavg,-0.078 (0.08),3.25E-01,7.38E-01,No,159,0.011 (0.037),7.70E-01,8.91E-01,No,742,-0.012 (0.041),7.72E-01,9.64E-01,No,585
+cortical_thickness,CTQ_Neglect,male,R_pericalcarine_thickavg,-0.159 (0.079),4.56E-02,4.43E-01,No,159,-0.031 (0.037),3.93E-01,6.68E-01,No,742,-0.019 (0.041),6.53E-01,9.64E-01,No,585
+cortical_thickness,CTQ_Neglect,male,R_postcentral_thickavg,-0.173 (0.079),2.97E-02,4.04E-01,No,159,-0.061 (0.037),9.92E-02,4.59E-01,No,742,-0.017 (0.041),6.87E-01,9.64E-01,No,585
+cortical_thickness,CTQ_Neglect,male,R_posteriorcingulate_thickavg,0.007 (0.08),9.33E-01,9.89E-01,No,159,-0.015 (0.037),6.74E-01,8.77E-01,No,742,-0.078 (0.041),5.80E-02,7.98E-01,No,585
+cortical_thickness,CTQ_Neglect,male,R_precentral_thickavg,-0.101 (0.079),2.06E-01,6.22E-01,No,159,-0.053 (0.037),1.49E-01,4.60E-01,No,742,-0.011 (0.041),7.84E-01,9.64E-01,No,585
+cortical_thickness,CTQ_Neglect,male,R_precuneus_thickavg,0.032 (0.08),6.89E-01,9.57E-01,No,159,0.055 (0.037),1.33E-01,4.59E-01,No,742,0.008 (0.041),8.54E-01,9.64E-01,No,585
+cortical_thickness,CTQ_Neglect,male,R_rostralanteriorcingulate_thickavg,0.139 (0.079),7.96E-02,5.21E-01,No,159,-0.012 (0.037),7.44E-01,8.91E-01,No,742,-0.028 (0.041),4.95E-01,9.64E-01,No,585
+cortical_thickness,CTQ_Neglect,male,R_rostralmiddlefrontal_thickavg,-0.216 (0.078),6.31E-03,2.77E-01,No,159,0.014 (0.037),6.96E-01,8.77E-01,No,742,-0.054 (0.041),1.95E-01,7.98E-01,No,585
+cortical_thickness,CTQ_Neglect,male,R_superiorfrontal_thickavg,-0.042 (0.08),6.00E-01,9.22E-01,No,159,-0.011 (0.037),7.62E-01,8.91E-01,No,742,-0.09 (0.041),2.93E-02,7.98E-01,No,585
+cortical_thickness,CTQ_Neglect,male,R_superiorparietal_thickavg,0.035 (0.08),6.64E-01,9.57E-01,No,159,0.064 (0.037),7.98E-02,4.59E-01,No,742,-0.016 (0.041),6.97E-01,9.64E-01,No,585
+cortical_thickness,CTQ_Neglect,male,R_superiortemporal_thickavg,0.037 (0.08),6.45E-01,9.53E-01,No,159,-0.059 (0.037),1.07E-01,4.59E-01,No,742,0.013 (0.041),7.57E-01,9.64E-01,No,585
+cortical_thickness,CTQ_Neglect,male,R_supramargil_thickavg,-0.054 (0.08),4.96E-01,9.08E-01,No,159,-0.072 (0.037),4.98E-02,3.76E-01,No,742,-0.025 (0.041),5.45E-01,9.64E-01,No,585
+cortical_thickness,CTQ_Neglect,male,R_frontalpole_thickavg,-0.052 (0.08),5.14E-01,9.08E-01,No,159,0.004 (0.037),9.20E-01,9.60E-01,No,742,0.032 (0.041),4.35E-01,9.64E-01,No,585
+cortical_thickness,CTQ_Neglect,male,R_temporalpole_thickavg,-0.009 (0.08),9.10E-01,9.89E-01,No,159,-0.075 (0.037),4.06E-02,3.76E-01,No,742,0.016 (0.041),7.00E-01,9.64E-01,No,585
+cortical_thickness,CTQ_Neglect,male,R_transversetemporal_thickavg,0.042 (0.08),5.95E-01,9.22E-01,No,159,0.011 (0.037),7.73E-01,8.91E-01,No,742,0.051 (0.041),2.18E-01,7.98E-01,No,585
+cortical_thickness,CTQ_Neglect,male,R_insula_thickavg,0.195 (0.078),1.38E-02,3.14E-01,No,159,-0.018 (0.037),6.20E-01,8.77E-01,No,742,0.019 (0.041),6.44E-01,9.64E-01,No,585
+subcortical_volume,CTQ_Abuse,female,Lthal,-0.001 (0.073),9.89E-01,9.89E-01,No,189,-0.03 (0.029),3.07E-01,3.58E-01,No,1164,0.016 (0.034),6.46E-01,7.48E-01,No,867
+subcortical_volume,CTQ_Abuse,female,Rthal,0.095 (0.073),1.94E-01,5.36E-01,No,189,0.11 (0.029) *,1.62E-04,4.52E-04,Yes,1164,0.141 (0.034) *,3.01E-05,1.40E-04,Yes,867
+subcortical_volume,CTQ_Abuse,female,Lcaud,-0.088 (0.073),2.29E-01,5.36E-01,No,189,-0.065 (0.029) *,2.69E-02,4.70E-02,Yes,1164,-0.07 (0.034),3.93E-02,1.10E-01,No,867
+subcortical_volume,CTQ_Abuse,female,Rcaud,-0.089 (0.073),2.24E-01,5.36E-01,No,189,-0.054 (0.029),6.44E-02,1.00E-01,No,1164,-0.027 (0.034),4.33E-01,6.73E-01,No,867
+subcortical_volume,CTQ_Abuse,female,Lput,0.083 (0.073),2.56E-01,5.36E-01,No,189,-0.139 (0.029) *,2.05E-06,9.59E-06,Yes,1164,-0.155 (0.034) *,4.27E-06,5.98E-05,Yes,867
+subcortical_volume,CTQ_Abuse,female,Rput,0.081 (0.073),2.68E-01,5.36E-01,No,189,-0.106 (0.029) *,2.74E-04,6.38E-04,Yes,1164,-0.05 (0.034),1.45E-01,3.38E-01,No,867
+subcortical_volume,CTQ_Abuse,female,Lpal,0.109 (0.073),1.36E-01,5.36E-01,No,189,0.164 (0.029) *,1.79E-08,1.26E-07,Yes,1164,0.146 (0.034) *,1.55E-05,1.09E-04,Yes,867
+subcortical_volume,CTQ_Abuse,female,Rpal,0.066 (0.073),3.70E-01,5.76E-01,No,189,0.169 (0.029) *,6.17E-09,8.63E-08,Yes,1164,0.115 (0.034) *,7.29E-04,2.55E-03,Yes,867
+subcortical_volume,CTQ_Abuse,female,Lhippo,-0.029 (0.073),6.94E-01,8.70E-01,No,189,-0.08 (0.029) *,6.53E-03,1.31E-02,Yes,1164,-0.019 (0.034),5.68E-01,7.46E-01,No,867
+subcortical_volume,CTQ_Abuse,female,Rhippo,0.024 (0.073),7.45E-01,8.70E-01,No,189,-0.129 (0.029) *,1.09E-05,3.82E-05,Yes,1164,-0.038 (0.034),2.69E-01,4.70E-01,No,867
+subcortical_volume,CTQ_Abuse,female,Lamyg,0.043 (0.073),5.57E-01,7.80E-01,No,189,0.033 (0.029),2.63E-01,3.35E-01,No,1164,0.019 (0.034),5.86E-01,7.46E-01,No,867
+subcortical_volume,CTQ_Abuse,female,Ramyg,0.018 (0.073),8.09E-01,8.71E-01,No,189,0.04 (0.029),1.73E-01,2.43E-01,No,1164,-0.002 (0.034),9.42E-01,9.42E-01,No,867
+subcortical_volume,CTQ_Abuse,female,Laccumb,0.066 (0.073),3.67E-01,5.76E-01,No,189,-0.017 (0.029),5.68E-01,6.12E-01,No,1164,-0.013 (0.034),6.95E-01,7.48E-01,No,867
+subcortical_volume,CTQ_Abuse,female,Raccumb,0.084 (0.073),2.49E-01,5.36E-01,No,189,-0.0 (0.029),9.95E-01,9.95E-01,No,1164,0.038 (0.034),2.62E-01,4.70E-01,No,867
+subcortical_volume,CTQ_Abuse,male,Lthal,-0.061 (0.079),4.42E-01,6.19E-01,No,160,0.126 (0.036) *,5.56E-04,2.59E-03,Yes,744,-0.026 (0.041),5.37E-01,5.37E-01,No,587
+subcortical_volume,CTQ_Abuse,male,Rthal,-0.111 (0.079),1.62E-01,3.78E-01,No,160,0.1 (0.037) *,6.32E-03,2.21E-02,Yes,744,-0.034 (0.041),4.16E-01,4.48E-01,No,587
+subcortical_volume,CTQ_Abuse,male,Lcaud,0.112 (0.079),1.60E-01,3.78E-01,No,160,0.03 (0.037),4.19E-01,7.33E-01,No,744,-0.04 (0.041),3.36E-01,4.12E-01,No,587
+subcortical_volume,CTQ_Abuse,male,Rcaud,0.147 (0.079),6.44E-02,3.78E-01,No,160,-0.002 (0.037),9.54E-01,9.54E-01,No,744,-0.04 (0.041),3.28E-01,4.12E-01,No,587
+subcortical_volume,CTQ_Abuse,male,Lput,0.113 (0.079),1.54E-01,3.78E-01,No,160,-0.056 (0.037),1.26E-01,2.93E-01,No,744,-0.095 (0.041),2.16E-02,6.05E-02,No,587
+subcortical_volume,CTQ_Abuse,male,Rput,0.139 (0.079),7.95E-02,3.78E-01,No,160,-0.024 (0.037),5.20E-01,8.09E-01,No,744,-0.055 (0.041),1.86E-01,3.25E-01,No,587
+subcortical_volume,CTQ_Abuse,male,Lpal,-0.079 (0.079),3.23E-01,5.70E-01,No,160,0.143 (0.036) *,9.40E-05,6.58E-04,Yes,744,0.117 (0.041) *,4.51E-03,2.68E-02,Yes,587
+subcortical_volume,CTQ_Abuse,male,Rpal,0.035 (0.08),6.60E-01,7.70E-01,No,160,0.171 (0.036) *,2.76E-06,3.87E-05,Yes,744,0.114 (0.041) *,5.74E-03,2.68E-02,Yes,587
+subcortical_volume,CTQ_Abuse,male,Lhippo,0.116 (0.079),1.44E-01,3.78E-01,No,160,0.01 (0.037),7.90E-01,9.42E-01,No,744,-0.087 (0.041),3.43E-02,6.86E-02,No,587
+subcortical_volume,CTQ_Abuse,male,Rhippo,0.072 (0.079),3.66E-01,5.70E-01,No,160,-0.006 (0.037),8.75E-01,9.42E-01,No,744,-0.09 (0.041),2.97E-02,6.86E-02,No,587
+subcortical_volume,CTQ_Abuse,male,Lamyg,0.018 (0.08),8.18E-01,8.18E-01,No,160,-0.043 (0.037),2.46E-01,4.92E-01,No,744,-0.104 (0.041) *,1.21E-02,4.23E-02,Yes,587
+subcortical_volume,CTQ_Abuse,male,Ramyg,0.018 (0.08),8.17E-01,8.18E-01,No,160,0.007 (0.037),8.56E-01,9.42E-01,No,744,-0.12 (0.041) *,3.54E-03,2.68E-02,Yes,587
+subcortical_volume,CTQ_Abuse,male,Laccumb,0.072 (0.079),3.66E-01,5.70E-01,No,160,0.008 (0.037),8.30E-01,9.42E-01,No,744,0.038 (0.041),3.53E-01,4.12E-01,No,587
+subcortical_volume,CTQ_Abuse,male,Raccumb,0.044 (0.079),5.79E-01,7.36E-01,No,160,0.065 (0.037),7.75E-02,2.17E-01,No,744,0.047 (0.041),2.56E-01,3.98E-01,No,587
+subcortical_volume,CTQ_Neglect,female,Lthal,0.011 (0.073),8.83E-01,9.51E-01,No,189,-0.032 (0.029),2.71E-01,3.34E-01,No,1164,0.024 (0.034),4.79E-01,6.48E-01,No,867
+subcortical_volume,CTQ_Neglect,female,Rthal,0.069 (0.073),3.45E-01,8.74E-01,No,189,0.064 (0.029),2.96E-02,8.29E-02,No,1164,0.096 (0.034) *,4.64E-03,3.25E-02,Yes,867
+subcortical_volume,CTQ_Neglect,female,Lcaud,-0.092 (0.073),2.07E-01,7.25E-01,No,189,-0.032 (0.029),2.71E-01,3.34E-01,No,1164,-0.087 (0.034) *,1.06E-02,3.79E-02,Yes,867
+subcortical_volume,CTQ_Neglect,female,Rcaud,-0.109 (0.073),1.34E-01,7.25E-01,No,189,-0.039 (0.029),1.78E-01,3.12E-01,No,1164,-0.086 (0.034) *,1.08E-02,3.79E-02,Yes,867
+subcortical_volume,CTQ_Neglect,female,Lput,0.042 (0.073),5.65E-01,8.79E-01,No,189,-0.073 (0.029) *,1.28E-02,4.47E-02,Yes,1164,-0.102 (0.034) *,2.55E-03,3.25E-02,Yes,867
+subcortical_volume,CTQ_Neglect,female,Rput,0.017 (0.073),8.19E-01,9.51E-01,No,189,-0.047 (0.029),1.07E-01,2.50E-01,No,1164,-0.069 (0.034),4.21E-02,1.18E-01,No,867
+subcortical_volume,CTQ_Neglect,female,Lpal,-0.001 (0.073),9.88E-01,9.88E-01,No,189,0.114 (0.029) *,9.09E-05,6.36E-04,Yes,1164,0.057 (0.034),9.41E-02,2.04E-01,No,867
+subcortical_volume,CTQ_Neglect,female,Rpal,-0.022 (0.073),7.64E-01,9.51E-01,No,189,0.124 (0.029) *,2.22E-05,3.10E-04,Yes,1164,0.032 (0.034),3.43E-01,5.34E-01,No,867
+subcortical_volume,CTQ_Neglect,female,Lhippo,-0.096 (0.073),1.91E-01,7.25E-01,No,189,-0.042 (0.029),1.56E-01,3.12E-01,No,1164,0.022 (0.034),5.10E-01,6.48E-01,No,867
+subcortical_volume,CTQ_Neglect,female,Rhippo,-0.057 (0.073),4.36E-01,8.74E-01,No,189,-0.092 (0.029) *,1.68E-03,7.82E-03,Yes,1164,0.013 (0.034),6.98E-01,8.14E-01,No,867
+subcortical_volume,CTQ_Neglect,female,Lamyg,0.026 (0.073),7.26E-01,9.51E-01,No,189,0.027 (0.029),3.61E-01,3.88E-01,No,1164,0.005 (0.034),8.84E-01,8.84E-01,No,867
+subcortical_volume,CTQ_Neglect,female,Ramyg,-0.049 (0.073),4.99E-01,8.74E-01,No,189,0.034 (0.029),2.48E-01,3.34E-01,No,1164,-0.056 (0.034),1.02E-01,2.04E-01,No,867
+subcortical_volume,CTQ_Neglect,female,Laccumb,0.112 (0.073),1.25E-01,7.25E-01,No,189,-0.031 (0.029),2.87E-01,3.34E-01,No,1164,-0.052 (0.034),1.25E-01,2.19E-01,No,867
+subcortical_volume,CTQ_Neglect,female,Raccumb,0.055 (0.073),4.49E-01,8.74E-01,No,189,-0.006 (0.029),8.28E-01,8.28E-01,No,1164,-0.009 (0.034),7.97E-01,8.58E-01,No,867
+subcortical_volume,CTQ_Neglect,male,Lthal,0.003 (0.08),9.66E-01,9.66E-01,No,160,0.067 (0.037),6.78E-02,4.75E-01,No,744,-0.073 (0.041),7.84E-02,3.67E-01,No,587
+subcortical_volume,CTQ_Neglect,male,Rthal,-0.091 (0.079),2.51E-01,5.73E-01,No,160,0.01 (0.037),7.82E-01,9.34E-01,No,744,-0.075 (0.041),6.87E-02,3.67E-01,No,587
+subcortical_volume,CTQ_Neglect,male,Lcaud,0.085 (0.079),2.86E-01,5.73E-01,No,160,0.056 (0.037),1.24E-01,5.79E-01,No,744,-0.034 (0.041),4.08E-01,5.71E-01,No,587
+subcortical_volume,CTQ_Neglect,male,Rcaud,0.12 (0.079),1.31E-01,5.62E-01,No,160,0.035 (0.037),3.41E-01,8.42E-01,No,744,-0.009 (0.041),8.28E-01,9.60E-01,No,587
+subcortical_volume,CTQ_Neglect,male,Lput,0.103 (0.079),1.96E-01,5.62E-01,No,160,0.01 (0.037),7.91E-01,9.34E-01,No,744,-0.003 (0.041),9.38E-01,9.60E-01,No,587
+subcortical_volume,CTQ_Neglect,male,Rput,0.118 (0.079),1.36E-01,5.62E-01,No,160,0.011 (0.037),7.69E-01,9.34E-01,No,744,0.017 (0.041),6.73E-01,8.56E-01,No,587
+subcortical_volume,CTQ_Neglect,male,Lpal,-0.122 (0.079),1.23E-01,5.62E-01,No,160,0.051 (0.037),1.68E-01,5.87E-01,No,744,0.044 (0.041),2.87E-01,4.79E-01,No,587
+subcortical_volume,CTQ_Neglect,male,Rpal,0.01 (0.08),9.03E-01,9.66E-01,No,160,0.076 (0.037),3.93E-02,4.75E-01,No,744,0.049 (0.041),2.32E-01,4.79E-01,No,587
+subcortical_volume,CTQ_Neglect,male,Lhippo,0.073 (0.079),3.59E-01,6.23E-01,No,160,0.026 (0.037),4.75E-01,8.42E-01,No,744,-0.044 (0.041),2.88E-01,4.79E-01,No,587
+subcortical_volume,CTQ_Neglect,male,Rhippo,0.102 (0.079),2.01E-01,5.62E-01,No,160,-0.0 (0.037),9.93E-01,9.93E-01,No,744,-0.05 (0.041),2.27E-01,4.79E-01,No,587
+subcortical_volume,CTQ_Neglect,male,Lamyg,-0.067 (0.079),4.01E-01,6.23E-01,No,160,0.007 (0.037),8.54E-01,9.34E-01,No,744,-0.071 (0.041),8.59E-02,3.67E-01,No,587
+subcortical_volume,CTQ_Neglect,male,Ramyg,0.033 (0.08),6.76E-01,8.52E-01,No,160,0.006 (0.037),8.67E-01,9.34E-01,No,744,-0.067 (0.041),1.05E-01,3.67E-01,No,587
+subcortical_volume,CTQ_Neglect,male,Laccumb,0.027 (0.08),7.30E-01,8.52E-01,No,160,0.03 (0.037),4.10E-01,8.42E-01,No,744,0.002 (0.041),9.60E-01,9.60E-01,No,587
+subcortical_volume,CTQ_Neglect,male,Raccumb,0.028 (0.08),7.25E-01,8.52E-01,No,160,0.026 (0.037),4.81E-01,8.42E-01,No,744,0.042 (0.041),3.08E-01,4.79E-01,No,587
+surface_area,CTQ_Abuse,female,L_bankssts_surfavg,0.133 (0.072),6.81E-02,5.79E-01,No,189,-0.085 (0.029) *,3.68E-03,1.15E-02,Yes,1163,-0.022 (0.034),5.11E-01,6.33E-01,No,864
+surface_area,CTQ_Abuse,female,L_caudalanteriorcingulate_surfavg,-0.035 (0.073),6.31E-01,9.38E-01,No,189,-0.065 (0.029),2.63E-02,5.08E-02,No,1163,-0.053 (0.034),1.20E-01,2.40E-01,No,864
+surface_area,CTQ_Abuse,female,L_caudalmiddlefrontal_surfavg,0.022 (0.073),7.59E-01,9.38E-01,No,189,-0.065 (0.029),2.69E-02,5.08E-02,No,1163,-0.067 (0.034),4.98E-02,1.17E-01,No,864
+surface_area,CTQ_Abuse,female,L_cuneus_surfavg,0.092 (0.073),2.10E-01,8.12E-01,No,189,0.01 (0.029),7.36E-01,8.34E-01,No,1163,-0.025 (0.034),4.71E-01,6.10E-01,No,864
+surface_area,CTQ_Abuse,female,L_entorhil_surfavg,-0.147 (0.072),4.31E-02,5.79E-01,No,189,0.026 (0.029),3.80E-01,5.28E-01,No,1163,0.104 (0.034) *,2.13E-03,1.45E-02,Yes,864
+surface_area,CTQ_Abuse,female,L_fusiform_surfavg,0.086 (0.073),2.37E-01,8.12E-01,No,189,-0.101 (0.029) *,5.92E-04,3.14E-03,Yes,1163,-0.026 (0.034),4.51E-01,6.10E-01,No,864
+surface_area,CTQ_Abuse,female,L_inferiorparietal_surfavg,0.055 (0.073),4.49E-01,8.93E-01,No,189,-0.079 (0.029) *,7.37E-03,1.93E-02,Yes,1163,-0.048 (0.034),1.56E-01,2.82E-01,No,864
+surface_area,CTQ_Abuse,female,L_inferiortemporal_surfavg,-0.189 (0.072),9.09E-03,3.78E-01,No,189,0.075 (0.029) *,1.00E-02,2.52E-02,Yes,1163,0.071 (0.034),3.70E-02,1.05E-01,No,864
+surface_area,CTQ_Abuse,female,L_isthmuscingulate_surfavg,0.055 (0.073),4.50E-01,8.93E-01,No,189,-0.07 (0.029) *,1.73E-02,3.56E-02,Yes,1163,-0.021 (0.034),5.32E-01,6.46E-01,No,864
+surface_area,CTQ_Abuse,female,L_lateraloccipital_surfavg,0.141 (0.072),5.23E-02,5.79E-01,No,189,0.089 (0.029) *,2.30E-03,8.24E-03,Yes,1163,0.072 (0.034),3.52E-02,1.04E-01,No,864
+surface_area,CTQ_Abuse,female,L_lateralorbitofrontal_surfavg,-0.093 (0.073),2.03E-01,8.12E-01,No,189,0.011 (0.029),7.05E-01,8.27E-01,No,1163,0.064 (0.034),6.01E-02,1.28E-01,No,864
+surface_area,CTQ_Abuse,female,L_lingual_surfavg,-0.064 (0.073),3.80E-01,8.88E-01,No,189,0.023 (0.029),4.33E-01,5.67E-01,No,1163,-0.019 (0.034),5.87E-01,6.76E-01,No,864
+surface_area,CTQ_Abuse,female,L_medialorbitofrontal_surfavg,-0.077 (0.073),2.91E-01,8.24E-01,No,189,0.096 (0.029) *,1.07E-03,4.64E-03,Yes,1163,0.066 (0.034),5.14E-02,1.17E-01,No,864
+surface_area,CTQ_Abuse,female,L_middletemporal_surfavg,0.018 (0.073),8.01E-01,9.46E-01,No,189,0.082 (0.029) *,4.92E-03,1.39E-02,Yes,1163,0.121 (0.034) *,3.53E-04,3.43E-03,Yes,864
+surface_area,CTQ_Abuse,female,L_parahippocampal_surfavg,-0.153 (0.072),3.60E-02,5.79E-01,No,189,-0.109 (0.029) *,1.85E-04,1.26E-03,Yes,1163,-0.036 (0.034),2.97E-01,4.48E-01,No,864
+surface_area,CTQ_Abuse,female,L_paracentral_surfavg,0.085 (0.073),2.46E-01,8.12E-01,No,189,0.005 (0.029),8.54E-01,9.22E-01,No,1163,-0.041 (0.034),2.27E-01,3.59E-01,No,864
+surface_area,CTQ_Abuse,female,L_parsopercularis_surfavg,-0.016 (0.073),8.27E-01,9.52E-01,No,189,-0.093 (0.029) *,1.56E-03,5.89E-03,Yes,1163,-0.086 (0.034) *,1.16E-02,4.40E-02,Yes,864
+surface_area,CTQ_Abuse,female,L_parsorbitalis_surfavg,-0.061 (0.073),4.05E-01,8.88E-01,No,189,0.114 (0.029) *,9.75E-05,7.37E-04,Yes,1163,0.113 (0.034) *,8.48E-04,6.41E-03,Yes,864
+surface_area,CTQ_Abuse,female,L_parstriangularis_surfavg,-0.05 (0.073),4.91E-01,9.27E-01,No,189,-0.009 (0.029),7.56E-01,8.39E-01,No,1163,-0.009 (0.034),7.83E-01,8.31E-01,No,864
+surface_area,CTQ_Abuse,female,L_pericalcarine_surfavg,0.089 (0.073),2.25E-01,8.12E-01,No,189,0.032 (0.029),2.72E-01,3.85E-01,No,1163,-0.083 (0.034),1.43E-02,5.11E-02,No,864
+surface_area,CTQ_Abuse,female,L_postcentral_surfavg,0.018 (0.073),8.07E-01,9.46E-01,No,189,-0.048 (0.029),1.02E-01,1.66E-01,No,1163,-0.067 (0.034),4.78E-02,1.16E-01,No,864
+surface_area,CTQ_Abuse,female,L_posteriorcingulate_surfavg,-0.023 (0.073),7.57E-01,9.38E-01,No,189,-0.046 (0.029),1.18E-01,1.87E-01,No,1163,-0.004 (0.034),8.96E-01,8.96E-01,No,864
+surface_area,CTQ_Abuse,female,L_precentral_surfavg,-0.039 (0.073),5.97E-01,9.38E-01,No,189,-0.06 (0.029),4.16E-02,7.26E-02,No,1163,-0.069 (0.034),4.37E-02,1.14E-01,No,864
+surface_area,CTQ_Abuse,female,L_precuneus_surfavg,-0.003 (0.073),9.63E-01,9.69E-01,No,189,-0.042 (0.029),1.57E-01,2.42E-01,No,1163,-0.086 (0.034) *,1.13E-02,4.40E-02,Yes,864
+surface_area,CTQ_Abuse,female,L_rostralanteriorcingulate_surfavg,-0.093 (0.073),2.01E-01,8.12E-01,No,189,-0.06 (0.029),4.00E-02,7.16E-02,No,1163,-0.074 (0.034),2.93E-02,9.07E-02,No,864
+surface_area,CTQ_Abuse,female,L_rostralmiddlefrontal_surfavg,-0.082 (0.073),2.63E-01,8.12E-01,No,189,-0.003 (0.029),9.10E-01,9.52E-01,No,1163,-0.048 (0.034),1.58E-01,2.82E-01,No,864
+surface_area,CTQ_Abuse,female,L_superiorfrontal_surfavg,0.003 (0.073),9.65E-01,9.69E-01,No,189,0.038 (0.029),1.92E-01,2.83E-01,No,1163,0.043 (0.034),2.05E-01,3.40E-01,No,864
+surface_area,CTQ_Abuse,female,L_superiorparietal_surfavg,0.023 (0.073),7.53E-01,9.38E-01,No,189,-0.014 (0.029),6.26E-01,7.46E-01,No,1163,-0.047 (0.034),1.70E-01,2.88E-01,No,864
+surface_area,CTQ_Abuse,female,L_superiortemporal_surfavg,-0.062 (0.073),3.96E-01,8.88E-01,No,189,0.071 (0.029) *,1.60E-02,3.50E-02,Yes,1163,0.078 (0.034),2.18E-02,7.07E-02,No,864
+surface_area,CTQ_Abuse,female,L_supramargil_surfavg,-0.003 (0.073),9.67E-01,9.69E-01,No,189,-0.017 (0.029),5.71E-01,7.06E-01,No,1163,0.07 (0.034),3.94E-02,1.07E-01,No,864
+surface_area,CTQ_Abuse,female,L_frontalpole_surfavg,-0.056 (0.073),4.43E-01,8.93E-01,No,189,0.219 (0.029) *,4.50E-14,3.06E-12,Yes,1163,0.199 (0.033) *,3.32E-09,1.13E-07,Yes,864
+surface_area,CTQ_Abuse,female,L_temporalpole_surfavg,-0.078 (0.073),2.84E-01,8.24E-01,No,189,0.101 (0.029) *,5.92E-04,3.14E-03,Yes,1163,0.16 (0.034) *,2.44E-06,5.54E-05,Yes,864
+surface_area,CTQ_Abuse,female,L_transversetemporal_surfavg,-0.112 (0.073),1.24E-01,7.71E-01,No,189,-0.024 (0.029),4.07E-01,5.53E-01,No,1163,-0.005 (0.034),8.90E-01,8.96E-01,No,864
+surface_area,CTQ_Abuse,female,L_insula_surfavg,-0.042 (0.073),5.67E-01,9.38E-01,No,189,0.015 (0.029),5.99E-01,7.28E-01,No,1163,0.022 (0.034),5.12E-01,6.33E-01,No,864
+surface_area,CTQ_Abuse,female,R_bankssts_surfavg,0.024 (0.073),7.40E-01,9.38E-01,No,189,-0.085 (0.029) *,3.65E-03,1.15E-02,Yes,1163,-0.013 (0.034),7.09E-01,7.91E-01,No,864
+surface_area,CTQ_Abuse,female,R_caudalanteriorcingulate_surfavg,0.03 (0.073),6.83E-01,9.38E-01,No,189,-0.096 (0.029) *,1.09E-03,4.64E-03,Yes,1163,0.017 (0.034),6.15E-01,6.97E-01,No,864
+surface_area,CTQ_Abuse,female,R_caudalmiddlefrontal_surfavg,-0.024 (0.073),7.40E-01,9.38E-01,No,189,-0.01 (0.029),7.29E-01,8.34E-01,No,1163,-0.067 (0.034),4.73E-02,1.16E-01,No,864
+surface_area,CTQ_Abuse,female,R_cuneus_surfavg,0.109 (0.073),1.35E-01,7.71E-01,No,189,0.062 (0.029),3.39E-02,6.23E-02,No,1163,-0.02 (0.034),5.51E-01,6.46E-01,No,864
+surface_area,CTQ_Abuse,female,R_entorhil_surfavg,-0.135 (0.072),6.42E-02,5.79E-01,No,189,0.138 (0.029) *,2.19E-06,2.12E-05,Yes,1163,0.097 (0.034) *,4.16E-03,2.35E-02,Yes,864
+surface_area,CTQ_Abuse,female,R_fusiform_surfavg,-0.105 (0.073),1.50E-01,7.83E-01,No,189,-0.116 (0.029) *,7.60E-05,6.46E-04,Yes,1163,-0.025 (0.034),4.65E-01,6.10E-01,No,864
+surface_area,CTQ_Abuse,female,R_inferiorparietal_surfavg,-0.069 (0.073),3.45E-01,8.88E-01,No,189,-0.073 (0.029) *,1.22E-02,2.87E-02,Yes,1163,-0.024 (0.034),4.76E-01,6.10E-01,No,864
+surface_area,CTQ_Abuse,female,R_inferiortemporal_surfavg,-0.024 (0.073),7.41E-01,9.38E-01,No,189,0.1 (0.029) *,6.00E-04,3.14E-03,Yes,1163,0.082 (0.034),1.65E-02,5.60E-02,No,864
+surface_area,CTQ_Abuse,female,R_isthmuscingulate_surfavg,0.038 (0.073),6.05E-01,9.38E-01,No,189,0.001 (0.029),9.71E-01,9.85E-01,No,1163,-0.029 (0.034),3.99E-01,5.68E-01,No,864
+surface_area,CTQ_Abuse,female,R_lateraloccipital_surfavg,-0.005 (0.073),9.46E-01,9.69E-01,No,189,0.15 (0.029) *,2.98E-07,3.38E-06,Yes,1163,0.094 (0.034) *,5.47E-03,2.48E-02,Yes,864
+surface_area,CTQ_Abuse,female,R_lateralorbitofrontal_surfavg,-0.163 (0.072),2.46E-02,5.58E-01,No,189,0.009 (0.029),7.65E-01,8.39E-01,No,1163,0.01 (0.034),7.62E-01,8.23E-01,No,864
+surface_area,CTQ_Abuse,female,R_lingual_surfavg,0.049 (0.073),5.07E-01,9.32E-01,No,189,0.084 (0.029) *,4.26E-03,1.26E-02,Yes,1163,0.04 (0.034),2.41E-01,3.72E-01,No,864
+surface_area,CTQ_Abuse,female,R_medialorbitofrontal_surfavg,-0.063 (0.073),3.93E-01,8.88E-01,No,189,0.171 (0.029) *,4.12E-09,7.00E-08,Yes,1163,0.213 (0.033) *,2.74E-10,1.86E-08,Yes,864
+surface_area,CTQ_Abuse,female,R_middletemporal_surfavg,0.184 (0.072),1.11E-02,3.78E-01,No,189,0.073 (0.029) *,1.33E-02,3.02E-02,Yes,1163,0.101 (0.034) *,2.92E-03,1.81E-02,Yes,864
+surface_area,CTQ_Abuse,female,R_parahippocampal_surfavg,-0.087 (0.073),2.32E-01,8.12E-01,No,189,-0.07 (0.029) *,1.68E-02,3.56E-02,Yes,1163,-0.062 (0.034),6.83E-02,1.41E-01,No,864
+surface_area,CTQ_Abuse,female,R_paracentral_surfavg,-0.04 (0.073),5.85E-01,9.38E-01,No,189,-0.023 (0.029),4.33E-01,5.67E-01,No,1163,-0.03 (0.034),3.81E-01,5.64E-01,No,864
+surface_area,CTQ_Abuse,female,R_parsopercularis_surfavg,0.034 (0.073),6.38E-01,9.38E-01,No,189,-0.067 (0.029) *,2.14E-02,4.27E-02,Yes,1163,-0.049 (0.034),1.48E-01,2.80E-01,No,864
+surface_area,CTQ_Abuse,female,R_parsorbitalis_surfavg,-0.022 (0.073),7.59E-01,9.38E-01,No,189,0.099 (0.029) *,7.19E-04,3.49E-03,Yes,1163,0.066 (0.034),5.39E-02,1.18E-01,No,864
+surface_area,CTQ_Abuse,female,R_parstriangularis_surfavg,0.062 (0.073),3.98E-01,8.88E-01,No,189,0.054 (0.029),6.79E-02,1.15E-01,No,1163,-0.009 (0.034),7.94E-01,8.31E-01,No,864
+surface_area,CTQ_Abuse,female,R_pericalcarine_surfavg,0.128 (0.073),7.94E-02,6.00E-01,No,189,0.021 (0.029),4.73E-01,5.96E-01,No,1163,-0.047 (0.034),1.68E-01,2.88E-01,No,864
+surface_area,CTQ_Abuse,female,R_postcentral_surfavg,-0.027 (0.073),7.13E-01,9.38E-01,No,189,-0.079 (0.029) *,7.20E-03,1.93E-02,Yes,1163,-0.029 (0.034),4.01E-01,5.68E-01,No,864
+surface_area,CTQ_Abuse,female,R_posteriorcingulate_surfavg,0.038 (0.073),6.02E-01,9.38E-01,No,189,-0.041 (0.029),1.61E-01,2.43E-01,No,1163,0.005 (0.034),8.88E-01,8.96E-01,No,864
+surface_area,CTQ_Abuse,female,R_precentral_surfavg,0.019 (0.073),7.93E-01,9.46E-01,No,189,-0.094 (0.029) *,1.38E-03,5.52E-03,Yes,1163,-0.026 (0.034),4.52E-01,6.10E-01,No,864
+surface_area,CTQ_Abuse,female,R_precuneus_surfavg,-0.024 (0.073),7.46E-01,9.38E-01,No,189,-0.049 (0.029),9.80E-02,1.62E-01,No,1163,-0.115 (0.034) *,7.22E-04,6.14E-03,Yes,864
+surface_area,CTQ_Abuse,female,R_rostralanteriorcingulate_surfavg,-0.003 (0.073),9.69E-01,9.69E-01,No,189,-0.154 (0.029) *,1.30E-07,1.77E-06,Yes,1163,-0.095 (0.034) *,5.11E-03,2.48E-02,Yes,864
+surface_area,CTQ_Abuse,female,R_rostralmiddlefrontal_surfavg,-0.014 (0.073),8.44E-01,9.52E-01,No,189,-0.003 (0.029),9.29E-01,9.57E-01,No,1163,-0.092 (0.034) *,7.08E-03,3.01E-02,Yes,864
+surface_area,CTQ_Abuse,female,R_superiorfrontal_surfavg,0.054 (0.073),4.60E-01,8.93E-01,No,189,0.003 (0.029),9.07E-01,9.52E-01,No,1163,0.021 (0.034),5.44E-01,6.46E-01,No,864
+surface_area,CTQ_Abuse,female,R_superiorparietal_surfavg,-0.082 (0.073),2.61E-01,8.12E-01,No,189,-0.038 (0.029),2.00E-01,2.90E-01,No,1163,-0.123 (0.034) *,2.91E-04,3.30E-03,Yes,864
+surface_area,CTQ_Abuse,female,R_superiortemporal_surfavg,0.032 (0.073),6.61E-01,9.38E-01,No,189,0.0 (0.029),9.91E-01,9.91E-01,No,1163,0.042 (0.034),2.22E-01,3.59E-01,No,864
+surface_area,CTQ_Abuse,female,R_supramargil_surfavg,0.014 (0.073),8.54E-01,9.52E-01,No,189,-0.085 (0.029) *,3.72E-03,1.15E-02,Yes,1163,-0.096 (0.034) *,4.63E-03,2.42E-02,Yes,864
+surface_area,CTQ_Abuse,female,R_frontalpole_surfavg,0.012 (0.073),8.72E-01,9.57E-01,No,189,0.187 (0.029) *,1.25E-10,2.84E-09,Yes,1163,0.153 (0.034) *,6.31E-06,1.07E-04,Yes,864
+surface_area,CTQ_Abuse,female,R_temporalpole_surfavg,0.01 (0.073),8.91E-01,9.62E-01,No,189,0.199 (0.029) *,7.66E-12,2.60E-10,Yes,1163,0.138 (0.034) *,4.88E-05,6.64E-04,Yes,864
+surface_area,CTQ_Abuse,female,R_transversetemporal_surfavg,-0.109 (0.073),1.36E-01,7.71E-01,No,189,-0.074 (0.029) *,1.17E-02,2.85E-02,Yes,1163,-0.012 (0.034),7.30E-01,8.01E-01,No,864
+surface_area,CTQ_Abuse,female,R_insula_surfavg,0.063 (0.073),3.86E-01,8.88E-01,No,189,-0.021 (0.029),4.73E-01,5.96E-01,No,1163,-0.052 (0.034),1.27E-01,2.46E-01,No,864
+surface_area,CTQ_Abuse,male,L_bankssts_surfavg,-0.036 (0.08),6.53E-01,9.31E-01,No,159,-0.053 (0.037),1.48E-01,4.37E-01,No,742,-0.036 (0.041),3.85E-01,6.23E-01,No,585
+surface_area,CTQ_Abuse,male,L_caudalanteriorcingulate_surfavg,0.052 (0.08),5.16E-01,8.95E-01,No,159,0.05 (0.037),1.77E-01,4.80E-01,No,742,-0.096 (0.041),1.96E-02,2.22E-01,No,585
+surface_area,CTQ_Abuse,male,L_caudalmiddlefrontal_surfavg,-0.057 (0.08),4.79E-01,8.95E-01,No,159,-0.004 (0.037),9.14E-01,9.87E-01,No,742,-0.032 (0.041),4.43E-01,6.45E-01,No,585
+surface_area,CTQ_Abuse,male,L_cuneus_surfavg,0.098 (0.079),2.21E-01,8.92E-01,No,159,-0.0 (0.037),1.00E+00,1.00E+00,No,742,0.052 (0.041),2.06E-01,5.54E-01,No,585
+surface_area,CTQ_Abuse,male,L_entorhil_surfavg,-0.064 (0.08),4.26E-01,8.95E-01,No,159,0.027 (0.037),4.61E-01,7.13E-01,No,742,0.048 (0.041),2.50E-01,5.54E-01,No,585
+surface_area,CTQ_Abuse,male,L_fusiform_surfavg,-0.084 (0.08),2.94E-01,8.92E-01,No,159,-0.05 (0.037),1.74E-01,4.80E-01,No,742,0.029 (0.041),4.90E-01,6.66E-01,No,585
+surface_area,CTQ_Abuse,male,L_inferiorparietal_surfavg,-0.073 (0.08),3.63E-01,8.92E-01,No,159,-0.066 (0.037),7.41E-02,2.72E-01,No,742,0.004 (0.041),9.17E-01,9.31E-01,No,585
+surface_area,CTQ_Abuse,male,L_inferiortemporal_surfavg,-0.032 (0.08),6.88E-01,9.31E-01,No,159,0.036 (0.037),3.31E-01,5.92E-01,No,742,0.005 (0.041),8.96E-01,9.25E-01,No,585
+surface_area,CTQ_Abuse,male,L_isthmuscingulate_surfavg,0.016 (0.08),8.45E-01,9.68E-01,No,159,-0.003 (0.037),9.38E-01,9.87E-01,No,742,-0.088 (0.041),3.42E-02,3.33E-01,No,585
+surface_area,CTQ_Abuse,male,L_lateraloccipital_surfavg,0.052 (0.08),5.14E-01,8.95E-01,No,159,0.083 (0.037),2.42E-02,1.83E-01,No,742,0.029 (0.041),4.90E-01,6.66E-01,No,585
+surface_area,CTQ_Abuse,male,L_lateralorbitofrontal_surfavg,-0.068 (0.08),3.94E-01,8.92E-01,No,159,-0.029 (0.037),4.25E-01,7.04E-01,No,742,0.048 (0.041),2.42E-01,5.54E-01,No,585
+surface_area,CTQ_Abuse,male,L_lingual_surfavg,0.07 (0.08),3.78E-01,8.92E-01,No,159,-0.039 (0.037),2.93E-01,5.63E-01,No,742,0.08 (0.041),5.19E-02,3.74E-01,No,585
+surface_area,CTQ_Abuse,male,L_medialorbitofrontal_surfavg,-0.01 (0.08),8.96E-01,9.68E-01,No,159,0.017 (0.037),6.49E-01,8.91E-01,No,742,0.032 (0.041),4.46E-01,6.45E-01,No,585
+surface_area,CTQ_Abuse,male,L_middletemporal_surfavg,-0.212 (0.078),7.23E-03,4.46E-01,No,159,0.02 (0.037),5.90E-01,8.36E-01,No,742,0.071 (0.041),8.45E-02,4.10E-01,No,585
+surface_area,CTQ_Abuse,male,L_parahippocampal_surfavg,-0.119 (0.079),1.36E-01,8.92E-01,No,159,-0.075 (0.037),4.04E-02,2.11E-01,No,742,0.019 (0.041),6.39E-01,7.49E-01,No,585
+surface_area,CTQ_Abuse,male,L_paracentral_surfavg,-0.088 (0.08),2.72E-01,8.92E-01,No,159,-0.043 (0.037),2.45E-01,5.32E-01,No,742,-0.107 (0.041),9.71E-03,1.65E-01,No,585
+surface_area,CTQ_Abuse,male,L_parsopercularis_surfavg,0.139 (0.079),8.08E-02,7.85E-01,No,159,0.071 (0.037),5.32E-02,2.26E-01,No,742,-0.041 (0.041),3.21E-01,6.23E-01,No,585
+surface_area,CTQ_Abuse,male,L_parsorbitalis_surfavg,0.04 (0.08),6.19E-01,9.31E-01,No,159,0.156 (0.036) *,1.92E-05,1.30E-03,Yes,742,0.066 (0.041),1.10E-01,4.90E-01,No,585
+surface_area,CTQ_Abuse,male,L_parstriangularis_surfavg,0.059 (0.08),4.58E-01,8.95E-01,No,159,0.065 (0.037),7.60E-02,2.72E-01,No,742,0.06 (0.041),1.44E-01,5.47E-01,No,585
+surface_area,CTQ_Abuse,male,L_pericalcarine_surfavg,0.161 (0.079),4.21E-02,5.01E-01,No,159,-0.016 (0.037),6.55E-01,8.91E-01,No,742,0.042 (0.041),3.15E-01,6.23E-01,No,585
+surface_area,CTQ_Abuse,male,L_postcentral_surfavg,-0.079 (0.08),3.20E-01,8.92E-01,No,159,-0.021 (0.037),5.77E-01,8.34E-01,No,742,-0.065 (0.041),1.15E-01,4.90E-01,No,585
+surface_area,CTQ_Abuse,male,L_posteriorcingulate_surfavg,-0.003 (0.08),9.71E-01,9.71E-01,No,159,-0.011 (0.037),7.61E-01,9.25E-01,No,742,-0.122 (0.041),3.02E-03,8.37E-02,No,585
+surface_area,CTQ_Abuse,male,L_precentral_surfavg,0.06 (0.08),4.50E-01,8.95E-01,No,159,0.028 (0.037),4.54E-01,7.13E-01,No,742,-0.005 (0.041),8.98E-01,9.25E-01,No,585
+surface_area,CTQ_Abuse,male,L_precuneus_surfavg,-0.133 (0.079),9.46E-02,7.90E-01,No,159,-0.087 (0.037),1.74E-02,1.47E-01,No,742,-0.078 (0.041),5.90E-02,3.74E-01,No,585
+surface_area,CTQ_Abuse,male,L_rostralanteriorcingulate_surfavg,-0.107 (0.079),1.79E-01,8.92E-01,No,159,-0.011 (0.037),7.61E-01,9.25E-01,No,742,-0.038 (0.041),3.60E-01,6.23E-01,No,585
+surface_area,CTQ_Abuse,male,L_rostralmiddlefrontal_surfavg,-0.077 (0.08),3.36E-01,8.92E-01,No,159,0.076 (0.037),3.78E-02,2.11E-01,No,742,-0.049 (0.041),2.33E-01,5.54E-01,No,585
+surface_area,CTQ_Abuse,male,L_superiorfrontal_surfavg,-0.013 (0.08),8.72E-01,9.68E-01,No,159,0.021 (0.037),5.61E-01,8.29E-01,No,742,0.027 (0.041),5.14E-01,6.73E-01,No,585
+surface_area,CTQ_Abuse,male,L_superiorparietal_surfavg,0.07 (0.08),3.81E-01,8.92E-01,No,159,-0.042 (0.037),2.56E-01,5.32E-01,No,742,-0.001 (0.041),9.76E-01,9.76E-01,No,585
+surface_area,CTQ_Abuse,male,L_superiortemporal_surfavg,0.01 (0.08),9.05E-01,9.68E-01,No,159,0.038 (0.037),3.06E-01,5.63E-01,No,742,0.05 (0.041),2.23E-01,5.54E-01,No,585
+surface_area,CTQ_Abuse,male,L_supramargil_surfavg,0.033 (0.08),6.76E-01,9.31E-01,No,159,-0.003 (0.037),9.44E-01,9.87E-01,No,742,0.037 (0.041),3.69E-01,6.23E-01,No,585
+surface_area,CTQ_Abuse,male,L_frontalpole_surfavg,-0.011 (0.08),8.90E-01,9.68E-01,No,159,0.133 (0.036) *,2.89E-04,6.56E-03,Yes,742,0.06 (0.041),1.45E-01,5.47E-01,No,585
+surface_area,CTQ_Abuse,male,L_temporalpole_surfavg,-0.009 (0.08),9.13E-01,9.68E-01,No,159,0.059 (0.037),1.11E-01,3.58E-01,No,742,0.12 (0.041),3.69E-03,8.37E-02,No,585
+surface_area,CTQ_Abuse,male,L_transversetemporal_surfavg,0.019 (0.08),8.12E-01,9.68E-01,No,159,-0.007 (0.037),8.58E-01,9.87E-01,No,742,-0.022 (0.041),5.97E-01,7.12E-01,No,585
+surface_area,CTQ_Abuse,male,L_insula_surfavg,-0.004 (0.08),9.56E-01,9.71E-01,No,159,0.005 (0.037),8.87E-01,9.87E-01,No,742,0.017 (0.041),6.80E-01,7.83E-01,No,585
+surface_area,CTQ_Abuse,male,R_bankssts_surfavg,-0.034 (0.08),6.74E-01,9.31E-01,No,159,-0.12 (0.036) *,1.07E-03,1.81E-02,Yes,742,-0.077 (0.041),6.30E-02,3.74E-01,No,585
+surface_area,CTQ_Abuse,male,R_caudalanteriorcingulate_surfavg,0.04 (0.08),6.20E-01,9.31E-01,No,159,0.004 (0.037),9.07E-01,9.87E-01,No,742,-0.052 (0.041),2.09E-01,5.54E-01,No,585
+surface_area,CTQ_Abuse,male,R_caudalmiddlefrontal_surfavg,0.087 (0.08),2.77E-01,8.92E-01,No,159,0.048 (0.037),1.96E-01,5.13E-01,No,742,-0.016 (0.041),6.93E-01,7.85E-01,No,585
+surface_area,CTQ_Abuse,male,R_cuneus_surfavg,0.171 (0.079),3.10E-02,5.01E-01,No,159,0.01 (0.037),7.79E-01,9.25E-01,No,742,0.037 (0.041),3.77E-01,6.23E-01,No,585
+surface_area,CTQ_Abuse,male,R_entorhil_surfavg,0.007 (0.08),9.35E-01,9.68E-01,No,159,0.042 (0.037),2.50E-01,5.32E-01,No,742,0.055 (0.041),1.80E-01,5.54E-01,No,585
+surface_area,CTQ_Abuse,male,R_fusiform_surfavg,-0.16 (0.079),4.42E-02,5.01E-01,No,159,-0.038 (0.037),3.06E-01,5.63E-01,No,742,0.039 (0.041),3.47E-01,6.23E-01,No,585
+surface_area,CTQ_Abuse,male,R_inferiorparietal_surfavg,0.079 (0.08),3.22E-01,8.92E-01,No,159,0.01 (0.037),7.78E-01,9.25E-01,No,742,-0.073 (0.041),7.82E-02,4.09E-01,No,585
+surface_area,CTQ_Abuse,male,R_inferiortemporal_surfavg,-0.077 (0.08),3.35E-01,8.92E-01,No,159,-0.041 (0.037),2.66E-01,5.32E-01,No,742,-0.026 (0.041),5.33E-01,6.84E-01,No,585
+surface_area,CTQ_Abuse,male,R_isthmuscingulate_surfavg,0.075 (0.08),3.47E-01,8.92E-01,No,159,0.072 (0.037),5.08E-02,2.26E-01,No,742,-0.024 (0.041),5.69E-01,7.12E-01,No,585
+surface_area,CTQ_Abuse,male,R_lateraloccipital_surfavg,-0.008 (0.08),9.20E-01,9.68E-01,No,159,0.014 (0.037),7.13E-01,9.25E-01,No,742,0.05 (0.041),2.28E-01,5.54E-01,No,585
+surface_area,CTQ_Abuse,male,R_lateralorbitofrontal_surfavg,-0.059 (0.08),4.59E-01,8.95E-01,No,159,0.044 (0.037),2.33E-01,5.32E-01,No,742,0.047 (0.041),2.61E-01,5.54E-01,No,585
+surface_area,CTQ_Abuse,male,R_lingual_surfavg,0.082 (0.08),3.07E-01,8.92E-01,No,159,0.003 (0.037),9.37E-01,9.87E-01,No,742,0.022 (0.041),5.90E-01,7.12E-01,No,585
+surface_area,CTQ_Abuse,male,R_medialorbitofrontal_surfavg,-0.129 (0.079),1.05E-01,7.90E-01,No,159,0.096 (0.037),8.58E-03,8.34E-02,No,742,0.103 (0.041),1.27E-02,1.72E-01,No,585
+surface_area,CTQ_Abuse,male,R_middletemporal_surfavg,-0.196 (0.078),1.31E-02,4.46E-01,No,159,-0.016 (0.037),6.70E-01,8.94E-01,No,742,-0.029 (0.041),4.77E-01,6.66E-01,No,585
+surface_area,CTQ_Abuse,male,R_parahippocampal_surfavg,-0.104 (0.079),1.91E-01,8.92E-01,No,159,-0.062 (0.037),9.23E-02,3.14E-01,No,742,-0.055 (0.041),1.85E-01,5.54E-01,No,585
+surface_area,CTQ_Abuse,male,R_paracentral_surfavg,0.093 (0.079),2.44E-01,8.92E-01,No,159,-0.072 (0.037),5.03E-02,2.26E-01,No,742,-0.076 (0.041),6.60E-02,3.74E-01,No,585
+surface_area,CTQ_Abuse,male,R_parsopercularis_surfavg,0.055 (0.08),4.88E-01,8.95E-01,No,159,0.044 (0.037),2.30E-01,5.32E-01,No,742,-0.054 (0.041),1.89E-01,5.54E-01,No,585
+surface_area,CTQ_Abuse,male,R_parsorbitalis_surfavg,-0.031 (0.08),6.95E-01,9.31E-01,No,159,0.079 (0.037),3.23E-02,2.11E-01,No,742,0.04 (0.041),3.38E-01,6.23E-01,No,585
+surface_area,CTQ_Abuse,male,R_parstriangularis_surfavg,0.006 (0.08),9.40E-01,9.68E-01,No,159,0.043 (0.037),2.41E-01,5.32E-01,No,742,0.022 (0.041),5.88E-01,7.12E-01,No,585
+surface_area,CTQ_Abuse,male,R_pericalcarine_surfavg,0.176 (0.079),2.66E-02,5.01E-01,No,159,-0.001 (0.037),9.87E-01,1.00E+00,No,742,0.034 (0.041),4.12E-01,6.23E-01,No,585
+surface_area,CTQ_Abuse,male,R_postcentral_surfavg,0.051 (0.08),5.26E-01,8.95E-01,No,159,-0.03 (0.037),4.22E-01,7.04E-01,No,742,-0.036 (0.041),3.84E-01,6.23E-01,No,585
+surface_area,CTQ_Abuse,male,R_posteriorcingulate_surfavg,-0.074 (0.08),3.51E-01,8.92E-01,No,159,-0.01 (0.037),7.89E-01,9.25E-01,No,742,-0.058 (0.041),1.62E-01,5.54E-01,No,585
+surface_area,CTQ_Abuse,male,R_precentral_surfavg,0.008 (0.08),9.20E-01,9.68E-01,No,159,0.011 (0.037),7.70E-01,9.25E-01,No,742,-0.034 (0.041),4.12E-01,6.23E-01,No,585
+surface_area,CTQ_Abuse,male,R_precuneus_surfavg,-0.01 (0.08),8.97E-01,9.68E-01,No,159,-0.076 (0.037),3.96E-02,2.11E-01,No,742,-0.047 (0.041),2.58E-01,5.54E-01,No,585
+surface_area,CTQ_Abuse,male,R_rostralanteriorcingulate_surfavg,0.052 (0.08),5.19E-01,8.95E-01,No,159,-0.055 (0.037),1.32E-01,4.09E-01,No,742,-0.007 (0.041),8.63E-01,9.25E-01,No,585
+surface_area,CTQ_Abuse,male,R_rostralmiddlefrontal_surfavg,-0.031 (0.08),6.99E-01,9.31E-01,No,159,0.041 (0.037),2.61E-01,5.32E-01,No,742,-0.035 (0.041),3.93E-01,6.23E-01,No,585
+surface_area,CTQ_Abuse,male,R_superiorfrontal_surfavg,-0.091 (0.079),2.55E-01,8.92E-01,No,159,0.023 (0.037),5.38E-01,8.13E-01,No,742,-0.007 (0.041),8.63E-01,9.25E-01,No,585
+surface_area,CTQ_Abuse,male,R_superiorparietal_surfavg,-0.033 (0.08),6.75E-01,9.31E-01,No,159,-0.117 (0.037) *,1.44E-03,1.95E-02,Yes,742,0.006 (0.041),8.82E-01,9.25E-01,No,585
+surface_area,CTQ_Abuse,male,R_superiortemporal_surfavg,0.018 (0.08),8.19E-01,9.68E-01,No,159,0.002 (0.037),9.61E-01,9.90E-01,No,742,-0.009 (0.041),8.21E-01,9.15E-01,No,585
+surface_area,CTQ_Abuse,male,R_supramargil_surfavg,0.03 (0.08),7.12E-01,9.31E-01,No,159,-0.069 (0.037),6.16E-02,2.46E-01,No,742,0.035 (0.041),4.01E-01,6.23E-01,No,585
+surface_area,CTQ_Abuse,male,R_frontalpole_surfavg,-0.071 (0.08),3.75E-01,8.92E-01,No,159,0.144 (0.036) *,8.52E-05,2.90E-03,Yes,742,0.083 (0.041),4.52E-02,3.74E-01,No,585
+surface_area,CTQ_Abuse,male,R_temporalpole_surfavg,-0.009 (0.08),9.14E-01,9.68E-01,No,159,0.103 (0.037),4.86E-03,5.51E-02,No,742,0.18 (0.041) *,1.22E-05,8.30E-04,Yes,585
+surface_area,CTQ_Abuse,male,R_transversetemporal_surfavg,-0.032 (0.08),6.86E-01,9.31E-01,No,159,-0.031 (0.037),4.01E-01,6.99E-01,No,742,-0.028 (0.041),5.05E-01,6.73E-01,No,585
+surface_area,CTQ_Abuse,male,R_insula_surfavg,-0.034 (0.08),6.68E-01,9.31E-01,No,159,-0.027 (0.037),4.55E-01,7.13E-01,No,742,-0.055 (0.041),1.81E-01,5.54E-01,No,585
+surface_area,CTQ_Neglect,female,L_bankssts_surfavg,0.132 (0.072),7.01E-02,8.54E-01,No,189,-0.068 (0.029),2.02E-02,5.27E-02,No,1163,-0.059 (0.034),8.15E-02,4.89E-01,No,864
+surface_area,CTQ_Neglect,female,L_caudalanteriorcingulate_surfavg,-0.05 (0.073),4.97E-01,8.54E-01,No,189,-0.07 (0.029) *,1.72E-02,4.68E-02,Yes,1163,-0.012 (0.034),7.18E-01,9.07E-01,No,864
+surface_area,CTQ_Neglect,female,L_caudalmiddlefrontal_surfavg,0.067 (0.073),3.62E-01,8.54E-01,No,189,-0.064 (0.029),2.90E-02,7.29E-02,No,1163,-0.011 (0.034),7.54E-01,9.07E-01,No,864
+surface_area,CTQ_Neglect,female,L_cuneus_surfavg,0.085 (0.073),2.44E-01,8.54E-01,No,189,0.024 (0.029),4.06E-01,5.54E-01,No,1163,-0.042 (0.034),2.21E-01,5.37E-01,No,864
+surface_area,CTQ_Neglect,female,L_entorhil_surfavg,-0.101 (0.073),1.67E-01,8.54E-01,No,189,0.02 (0.029),4.91E-01,6.07E-01,No,1163,0.079 (0.034),1.98E-02,2.16E-01,No,864
+surface_area,CTQ_Neglect,female,L_fusiform_surfavg,-0.007 (0.073),9.23E-01,9.37E-01,No,189,-0.077 (0.029) *,8.91E-03,2.89E-02,Yes,1163,-0.017 (0.034),6.25E-01,8.85E-01,No,864
+surface_area,CTQ_Neglect,female,L_inferiorparietal_surfavg,-0.049 (0.073),5.06E-01,8.54E-01,No,189,-0.078 (0.029) *,8.13E-03,2.83E-02,Yes,1163,-0.073 (0.034),3.22E-02,2.74E-01,No,864
+surface_area,CTQ_Neglect,female,L_inferiortemporal_surfavg,-0.231 (0.071),1.35E-03,9.19E-02,No,189,0.034 (0.029),2.44E-01,3.69E-01,No,1163,0.025 (0.034),4.57E-01,7.65E-01,No,864
+surface_area,CTQ_Neglect,female,L_isthmuscingulate_surfavg,0.098 (0.073),1.80E-01,8.54E-01,No,189,-0.051 (0.029),8.12E-02,1.49E-01,No,1163,0.02 (0.034),5.53E-01,8.21E-01,No,864
+surface_area,CTQ_Neglect,female,L_lateraloccipital_surfavg,0.097 (0.073),1.84E-01,8.54E-01,No,189,0.095 (0.029) *,1.20E-03,7.41E-03,Yes,1163,0.018 (0.034),5.91E-01,8.55E-01,No,864
+surface_area,CTQ_Neglect,female,L_lateralorbitofrontal_surfavg,-0.078 (0.073),2.85E-01,8.54E-01,No,189,0.031 (0.029),2.92E-01,4.13E-01,No,1163,0.042 (0.034),2.13E-01,5.37E-01,No,864
+surface_area,CTQ_Neglect,female,L_lingual_surfavg,-0.016 (0.073),8.26E-01,9.37E-01,No,189,0.061 (0.029),3.85E-02,8.72E-02,No,1163,0.025 (0.034),4.62E-01,7.65E-01,No,864
+surface_area,CTQ_Neglect,female,L_medialorbitofrontal_surfavg,-0.069 (0.073),3.47E-01,8.54E-01,No,189,0.059 (0.029),4.52E-02,9.31E-02,No,1163,0.051 (0.034),1.32E-01,4.89E-01,No,864
+surface_area,CTQ_Neglect,female,L_middletemporal_surfavg,-0.019 (0.073),7.92E-01,9.28E-01,No,189,0.017 (0.029),5.66E-01,6.75E-01,No,1163,0.054 (0.034),1.15E-01,4.89E-01,No,864
+surface_area,CTQ_Neglect,female,L_parahippocampal_surfavg,-0.081 (0.073),2.67E-01,8.54E-01,No,189,-0.101 (0.029) *,5.42E-04,4.10E-03,Yes,1163,-0.049 (0.034),1.47E-01,4.89E-01,No,864
+surface_area,CTQ_Neglect,female,L_paracentral_surfavg,0.094 (0.073),1.97E-01,8.54E-01,No,189,0.007 (0.029),8.12E-01,8.62E-01,No,1163,0.007 (0.034),8.36E-01,9.64E-01,No,864
+surface_area,CTQ_Neglect,female,L_parsopercularis_surfavg,-0.028 (0.073),6.99E-01,8.75E-01,No,189,-0.049 (0.029),9.23E-02,1.65E-01,No,1163,-0.041 (0.034),2.31E-01,5.41E-01,No,864
+surface_area,CTQ_Neglect,female,L_parsorbitalis_surfavg,-0.043 (0.073),5.53E-01,8.54E-01,No,189,0.09 (0.029) *,2.08E-03,9.45E-03,Yes,1163,0.053 (0.034),1.19E-01,4.89E-01,No,864
+surface_area,CTQ_Neglect,female,L_parstriangularis_surfavg,-0.032 (0.073),6.59E-01,8.75E-01,No,189,-0.011 (0.029),7.13E-01,7.83E-01,No,1163,-0.023 (0.034),5.02E-01,7.94E-01,No,864
+surface_area,CTQ_Neglect,female,L_pericalcarine_surfavg,0.068 (0.073),3.53E-01,8.54E-01,No,189,0.056 (0.029),5.83E-02,1.17E-01,No,1163,-0.054 (0.034),1.12E-01,4.89E-01,No,864
+surface_area,CTQ_Neglect,female,L_postcentral_surfavg,0.02 (0.073),7.83E-01,9.28E-01,No,189,-0.038 (0.029),1.97E-01,3.04E-01,No,1163,0.005 (0.034),8.86E-01,9.65E-01,No,864
+surface_area,CTQ_Neglect,female,L_posteriorcingulate_surfavg,-0.03 (0.073),6.79E-01,8.75E-01,No,189,-0.045 (0.029),1.25E-01,2.13E-01,No,1163,0.01 (0.034),7.73E-01,9.07E-01,No,864
+surface_area,CTQ_Neglect,female,L_precentral_surfavg,-0.055 (0.073),4.49E-01,8.54E-01,No,189,-0.062 (0.029),3.54E-02,8.29E-02,No,1163,-0.024 (0.034),4.73E-01,7.65E-01,No,864
+surface_area,CTQ_Neglect,female,L_precuneus_surfavg,-0.008 (0.073),9.17E-01,9.37E-01,No,189,-0.023 (0.029),4.34E-01,5.75E-01,No,1163,-0.051 (0.034),1.31E-01,4.89E-01,No,864
+surface_area,CTQ_Neglect,female,L_rostralanteriorcingulate_surfavg,-0.046 (0.073),5.33E-01,8.54E-01,No,189,-0.044 (0.029),1.38E-01,2.29E-01,No,1163,-0.001 (0.034),9.76E-01,9.76E-01,No,864
+surface_area,CTQ_Neglect,female,L_rostralmiddlefrontal_surfavg,-0.052 (0.073),4.75E-01,8.54E-01,No,189,-0.022 (0.029),4.52E-01,5.80E-01,No,1163,-0.048 (0.034),1.57E-01,4.89E-01,No,864
+surface_area,CTQ_Neglect,female,L_superiorfrontal_surfavg,0.044 (0.073),5.48E-01,8.54E-01,No,189,0.006 (0.029),8.32E-01,8.70E-01,No,1163,0.028 (0.034),4.18E-01,7.49E-01,No,864
+surface_area,CTQ_Neglect,female,L_superiorparietal_surfavg,0.005 (0.073),9.43E-01,9.43E-01,No,189,0.054 (0.029),6.67E-02,1.26E-01,No,1163,0.014 (0.034),6.82E-01,9.07E-01,No,864
+surface_area,CTQ_Neglect,female,L_superiortemporal_surfavg,-0.053 (0.073),4.71E-01,8.54E-01,No,189,0.023 (0.029),4.40E-01,5.75E-01,No,1163,0.01 (0.034),7.59E-01,9.07E-01,No,864
+surface_area,CTQ_Neglect,female,L_supramargil_surfavg,0.04 (0.073),5.84E-01,8.63E-01,No,189,-0.015 (0.029),6.14E-01,7.20E-01,No,1163,0.089 (0.034),9.14E-03,1.55E-01,No,864
+surface_area,CTQ_Neglect,female,L_frontalpole_surfavg,-0.058 (0.073),4.32E-01,8.54E-01,No,189,0.138 (0.029) *,2.22E-06,3.78E-05,Yes,1163,0.103 (0.034),2.50E-03,8.50E-02,No,864
+surface_area,CTQ_Neglect,female,L_temporalpole_surfavg,-0.023 (0.073),7.53E-01,9.14E-01,No,189,0.06 (0.029),4.06E-02,8.90E-02,No,1163,0.078 (0.034),2.22E-02,2.16E-01,No,864
+surface_area,CTQ_Neglect,female,L_transversetemporal_surfavg,-0.027 (0.073),7.08E-01,8.75E-01,No,189,-0.041 (0.029),1.63E-01,2.63E-01,No,1163,-0.002 (0.034),9.55E-01,9.70E-01,No,864
+surface_area,CTQ_Neglect,female,L_insula_surfavg,-0.013 (0.073),8.55E-01,9.37E-01,No,189,0.009 (0.029),7.61E-01,8.22E-01,No,1163,-0.038 (0.034),2.64E-01,5.48E-01,No,864
+surface_area,CTQ_Neglect,female,R_bankssts_surfavg,0.008 (0.073),9.08E-01,9.37E-01,No,189,-0.094 (0.029) *,1.37E-03,7.76E-03,Yes,1163,-0.011 (0.034),7.48E-01,9.07E-01,No,864
+surface_area,CTQ_Neglect,female,R_caudalanteriorcingulate_surfavg,0.082 (0.073),2.63E-01,8.54E-01,No,189,-0.062 (0.029),3.32E-02,8.07E-02,No,1163,0.053 (0.034),1.22E-01,4.89E-01,No,864
+surface_area,CTQ_Neglect,female,R_caudalmiddlefrontal_surfavg,0.046 (0.073),5.29E-01,8.54E-01,No,189,-0.031 (0.029),2.88E-01,4.13E-01,No,1163,-0.015 (0.034),6.61E-01,9.07E-01,No,864
+surface_area,CTQ_Neglect,female,R_cuneus_surfavg,0.103 (0.073),1.59E-01,8.54E-01,No,189,0.072 (0.029) *,1.44E-02,4.27E-02,Yes,1163,-0.04 (0.034),2.39E-01,5.42E-01,No,864
+surface_area,CTQ_Neglect,female,R_entorhil_surfavg,-0.107 (0.073),1.43E-01,8.54E-01,No,189,0.107 (0.029) *,2.49E-04,2.42E-03,Yes,1163,0.01 (0.034),7.74E-01,9.07E-01,No,864
+surface_area,CTQ_Neglect,female,R_fusiform_surfavg,-0.156 (0.072),3.18E-02,8.54E-01,No,189,-0.075 (0.029) *,1.06E-02,3.27E-02,Yes,1163,-0.038 (0.034),2.66E-01,5.48E-01,No,864
+surface_area,CTQ_Neglect,female,R_inferiorparietal_surfavg,-0.055 (0.073),4.51E-01,8.54E-01,No,189,-0.088 (0.029) *,2.72E-03,1.16E-02,Yes,1163,-0.02 (0.034),5.55E-01,8.21E-01,No,864
+surface_area,CTQ_Neglect,female,R_inferiortemporal_surfavg,-0.048 (0.073),5.12E-01,8.54E-01,No,189,0.091 (0.029) *,1.93E-03,9.38E-03,Yes,1163,0.051 (0.034),1.30E-01,4.89E-01,No,864
+surface_area,CTQ_Neglect,female,R_isthmuscingulate_surfavg,0.105 (0.073),1.52E-01,8.54E-01,No,189,-0.004 (0.029),8.93E-01,8.93E-01,No,1163,-0.004 (0.034),9.15E-01,9.65E-01,No,864
+surface_area,CTQ_Neglect,female,R_lateraloccipital_surfavg,-0.046 (0.073),5.31E-01,8.54E-01,No,189,0.156 (0.029) *,8.42E-08,5.73E-06,Yes,1163,0.025 (0.034),4.70E-01,7.65E-01,No,864
+surface_area,CTQ_Neglect,female,R_lateralorbitofrontal_surfavg,-0.105 (0.073),1.51E-01,8.54E-01,No,189,0.018 (0.029),5.43E-01,6.59E-01,No,1163,-0.003 (0.034),9.20E-01,9.65E-01,No,864
+surface_area,CTQ_Neglect,female,R_lingual_surfavg,0.041 (0.073),5.77E-01,8.63E-01,No,189,0.082 (0.029) *,5.07E-03,2.03E-02,Yes,1163,0.006 (0.034),8.56E-01,9.65E-01,No,864
+surface_area,CTQ_Neglect,female,R_medialorbitofrontal_surfavg,-0.068 (0.073),3.51E-01,8.54E-01,No,189,0.133 (0.029) *,5.16E-06,7.02E-05,Yes,1163,0.11 (0.034),1.23E-03,8.39E-02,No,864
+surface_area,CTQ_Neglect,female,R_middletemporal_surfavg,0.108 (0.073),1.41E-01,8.54E-01,No,189,0.013 (0.029),6.46E-01,7.44E-01,No,1163,0.047 (0.034),1.64E-01,4.89E-01,No,864
+surface_area,CTQ_Neglect,female,R_parahippocampal_surfavg,-0.053 (0.073),4.72E-01,8.54E-01,No,189,-0.077 (0.029) *,8.31E-03,2.83E-02,Yes,1163,-0.047 (0.034),1.65E-01,4.89E-01,No,864
+surface_area,CTQ_Neglect,female,R_paracentral_surfavg,0.038 (0.073),6.06E-01,8.72E-01,No,189,0.004 (0.029),8.80E-01,8.93E-01,No,1163,-0.011 (0.034),7.38E-01,9.07E-01,No,864
+surface_area,CTQ_Neglect,female,R_parsopercularis_surfavg,0.125 (0.073),8.75E-02,8.54E-01,No,189,-0.033 (0.029),2.59E-01,3.82E-01,No,1163,0.038 (0.034),2.63E-01,5.48E-01,No,864
+surface_area,CTQ_Neglect,female,R_parsorbitalis_surfavg,-0.037 (0.073),6.15E-01,8.72E-01,No,189,0.071 (0.029) *,1.61E-02,4.57E-02,Yes,1163,0.012 (0.034),7.22E-01,9.07E-01,No,864
+surface_area,CTQ_Neglect,female,R_parstriangularis_surfavg,0.079 (0.073),2.82E-01,8.54E-01,No,189,0.079 (0.029) *,7.00E-03,2.64E-02,Yes,1163,-0.042 (0.034),2.20E-01,5.37E-01,No,864
+surface_area,CTQ_Neglect,female,R_pericalcarine_surfavg,0.092 (0.073),2.09E-01,8.54E-01,No,189,0.045 (0.029),1.22E-01,2.12E-01,No,1163,-0.045 (0.034),1.83E-01,4.98E-01,No,864
+surface_area,CTQ_Neglect,female,R_postcentral_surfavg,-0.067 (0.073),3.61E-01,8.54E-01,No,189,-0.097 (0.029) *,9.14E-04,6.21E-03,Yes,1163,0.035 (0.034),3.01E-01,5.85E-01,No,864
+surface_area,CTQ_Neglect,female,R_posteriorcingulate_surfavg,0.114 (0.073),1.19E-01,8.54E-01,No,189,-0.038 (0.029),1.91E-01,3.02E-01,No,1163,0.02 (0.034),5.48E-01,8.21E-01,No,864
+surface_area,CTQ_Neglect,female,R_precentral_surfavg,0.015 (0.073),8.41E-01,9.37E-01,No,189,-0.11 (0.029) *,1.68E-04,1.91E-03,Yes,1163,-0.003 (0.034),9.36E-01,9.65E-01,No,864
+surface_area,CTQ_Neglect,female,R_precuneus_surfavg,0.034 (0.073),6.46E-01,8.75E-01,No,189,-0.024 (0.029),4.07E-01,5.54E-01,No,1163,-0.083 (0.034),1.52E-02,2.06E-01,No,864
+surface_area,CTQ_Neglect,female,R_rostralanteriorcingulate_surfavg,0.05 (0.073),4.93E-01,8.54E-01,No,189,-0.106 (0.029) *,2.84E-04,2.42E-03,Yes,1163,-0.029 (0.034),3.87E-01,7.10E-01,No,864
+surface_area,CTQ_Neglect,female,R_rostralmiddlefrontal_surfavg,-0.046 (0.073),5.27E-01,8.54E-01,No,189,0.006 (0.029),8.51E-01,8.77E-01,No,1163,-0.054 (0.034),1.11E-01,4.89E-01,No,864
+surface_area,CTQ_Neglect,female,R_superiorfrontal_surfavg,0.013 (0.073),8.56E-01,9.37E-01,No,189,0.012 (0.029),6.72E-01,7.61E-01,No,1163,0.003 (0.034),9.35E-01,9.65E-01,No,864
+surface_area,CTQ_Neglect,female,R_superiorparietal_surfavg,-0.028 (0.073),7.02E-01,8.75E-01,No,189,0.011 (0.029),7.00E-01,7.80E-01,No,1163,-0.034 (0.034),3.22E-01,6.09E-01,No,864
+surface_area,CTQ_Neglect,female,R_superiortemporal_surfavg,0.009 (0.073),9.00E-01,9.37E-01,No,189,-0.055 (0.029),6.27E-02,1.22E-01,No,1163,-0.037 (0.034),2.81E-01,5.62E-01,No,864
+surface_area,CTQ_Neglect,female,R_supramargil_surfavg,-0.008 (0.073),9.14E-01,9.37E-01,No,189,-0.092 (0.029) *,1.72E-03,9.00E-03,Yes,1163,-0.046 (0.034),1.79E-01,4.98E-01,No,864
+surface_area,CTQ_Neglect,female,R_frontalpole_surfavg,-0.032 (0.073),6.58E-01,8.75E-01,No,189,0.145 (0.029) *,6.81E-07,2.32E-05,Yes,1163,0.09 (0.034),8.36E-03,1.55E-01,No,864
+surface_area,CTQ_Neglect,female,R_temporalpole_surfavg,0.058 (0.073),4.30E-01,8.54E-01,No,189,0.14 (0.029) *,1.69E-06,3.78E-05,Yes,1163,0.047 (0.034),1.64E-01,4.89E-01,No,864
+surface_area,CTQ_Neglect,female,R_transversetemporal_surfavg,-0.073 (0.073),3.19E-01,8.54E-01,No,189,-0.059 (0.029),4.33E-02,9.20E-02,No,1163,0.004 (0.034),8.99E-01,9.65E-01,No,864
+surface_area,CTQ_Neglect,female,R_insula_surfavg,0.074 (0.073),3.14E-01,8.54E-01,No,189,-0.021 (0.029),4.70E-01,5.92E-01,No,1163,-0.047 (0.034),1.64E-01,4.89E-01,No,864
+surface_area,CTQ_Neglect,male,L_bankssts_surfavg,-0.057 (0.08),4.78E-01,9.60E-01,No,159,-0.025 (0.037),4.97E-01,8.43E-01,No,742,0.029 (0.041),4.83E-01,9.65E-01,No,585
+surface_area,CTQ_Neglect,male,L_caudalanteriorcingulate_surfavg,0.006 (0.08),9.37E-01,9.73E-01,No,159,0.02 (0.037),5.94E-01,8.66E-01,No,742,-0.097 (0.041),1.92E-02,9.19E-01,No,585
+surface_area,CTQ_Neglect,male,L_caudalmiddlefrontal_surfavg,-0.003 (0.08),9.68E-01,9.73E-01,No,159,0.042 (0.037),2.49E-01,8.21E-01,No,742,-0.025 (0.041),5.50E-01,9.65E-01,No,585
+surface_area,CTQ_Neglect,male,L_cuneus_surfavg,0.097 (0.079),2.24E-01,9.60E-01,No,159,-0.002 (0.037),9.48E-01,9.62E-01,No,742,0.008 (0.041),8.40E-01,9.65E-01,No,585
+surface_area,CTQ_Neglect,male,L_entorhil_surfavg,-0.025 (0.08),7.51E-01,9.72E-01,No,159,0.042 (0.037),2.53E-01,8.21E-01,No,742,0.061 (0.041),1.40E-01,9.19E-01,No,585
+surface_area,CTQ_Neglect,male,L_fusiform_surfavg,-0.079 (0.08),3.25E-01,9.60E-01,No,159,-0.01 (0.037),7.83E-01,9.51E-01,No,742,-0.018 (0.041),6.57E-01,9.65E-01,No,585
+surface_area,CTQ_Neglect,male,L_inferiorparietal_surfavg,-0.119 (0.079),1.35E-01,8.37E-01,No,159,-0.043 (0.037),2.41E-01,8.21E-01,No,742,0.046 (0.041),2.64E-01,9.65E-01,No,585
+surface_area,CTQ_Neglect,male,L_inferiortemporal_surfavg,-0.029 (0.08),7.16E-01,9.72E-01,No,159,0.022 (0.037),5.46E-01,8.44E-01,No,742,0.024 (0.041),5.59E-01,9.65E-01,No,585
+surface_area,CTQ_Neglect,male,L_isthmuscingulate_surfavg,0.046 (0.08),5.64E-01,9.72E-01,No,159,0.001 (0.037),9.72E-01,9.72E-01,No,742,-0.02 (0.041),6.25E-01,9.65E-01,No,585
+surface_area,CTQ_Neglect,male,L_lateraloccipital_surfavg,-0.062 (0.08),4.39E-01,9.60E-01,No,159,0.095 (0.037),9.42E-03,3.20E-01,No,742,0.003 (0.041),9.49E-01,9.65E-01,No,585
+surface_area,CTQ_Neglect,male,L_lateralorbitofrontal_surfavg,-0.022 (0.08),7.80E-01,9.72E-01,No,159,0.007 (0.037),8.55E-01,9.57E-01,No,742,-0.005 (0.041),8.99E-01,9.65E-01,No,585
+surface_area,CTQ_Neglect,male,L_lingual_surfavg,0.066 (0.08),4.06E-01,9.60E-01,No,159,-0.056 (0.037),1.29E-01,7.00E-01,No,742,0.004 (0.041),9.23E-01,9.65E-01,No,585
+surface_area,CTQ_Neglect,male,L_medialorbitofrontal_surfavg,-0.027 (0.08),7.36E-01,9.72E-01,No,159,-0.019 (0.037),6.15E-01,8.66E-01,No,742,-0.049 (0.041),2.36E-01,9.65E-01,No,585
+surface_area,CTQ_Neglect,male,L_middletemporal_surfavg,-0.171 (0.079),3.12E-02,7.07E-01,No,159,0.002 (0.037),9.46E-01,9.62E-01,No,742,0.071 (0.041),8.82E-02,9.19E-01,No,585
+surface_area,CTQ_Neglect,male,L_parahippocampal_surfavg,-0.051 (0.08),5.23E-01,9.72E-01,No,159,0.024 (0.037),5.08E-01,8.43E-01,No,742,0.022 (0.041),5.88E-01,9.65E-01,No,585
+surface_area,CTQ_Neglect,male,L_paracentral_surfavg,-0.028 (0.08),7.22E-01,9.72E-01,No,159,0.017 (0.037),6.37E-01,8.66E-01,No,742,-0.074 (0.041),7.20E-02,9.19E-01,No,585
+surface_area,CTQ_Neglect,male,L_parsopercularis_surfavg,0.172 (0.079),3.06E-02,7.07E-01,No,159,0.018 (0.037),6.32E-01,8.66E-01,No,742,-0.008 (0.041),8.51E-01,9.65E-01,No,585
+surface_area,CTQ_Neglect,male,L_parsorbitalis_surfavg,-0.03 (0.08),7.10E-01,9.72E-01,No,159,0.06 (0.037),1.00E-01,6.18E-01,No,742,0.02 (0.041),6.28E-01,9.65E-01,No,585
+surface_area,CTQ_Neglect,male,L_parstriangularis_surfavg,0.132 (0.079),9.82E-02,8.29E-01,No,159,0.005 (0.037),8.93E-01,9.57E-01,No,742,0.009 (0.041),8.27E-01,9.65E-01,No,585
+surface_area,CTQ_Neglect,male,L_pericalcarine_surfavg,0.154 (0.079),5.33E-02,7.17E-01,No,159,-0.032 (0.037),3.81E-01,8.21E-01,No,742,0.015 (0.041),7.25E-01,9.65E-01,No,585
+surface_area,CTQ_Neglect,male,L_postcentral_surfavg,-0.031 (0.08),7.01E-01,9.72E-01,No,159,0.008 (0.037),8.31E-01,9.57E-01,No,742,0.014 (0.041),7.28E-01,9.65E-01,No,585
+surface_area,CTQ_Neglect,male,L_posteriorcingulate_surfavg,-0.05 (0.08),5.31E-01,9.72E-01,No,159,-0.03 (0.037),4.10E-01,8.21E-01,No,742,-0.073 (0.041),7.88E-02,9.19E-01,No,585
+surface_area,CTQ_Neglect,male,L_precentral_surfavg,0.036 (0.08),6.53E-01,9.72E-01,No,159,0.078 (0.037),3.30E-02,3.84E-01,No,742,0.007 (0.041),8.60E-01,9.65E-01,No,585
+surface_area,CTQ_Neglect,male,L_precuneus_surfavg,-0.039 (0.08),6.29E-01,9.72E-01,No,159,-0.073 (0.037),4.54E-02,3.86E-01,No,742,-0.031 (0.041),4.61E-01,9.65E-01,No,585
+surface_area,CTQ_Neglect,male,L_rostralanteriorcingulate_surfavg,-0.015 (0.08),8.48E-01,9.72E-01,No,159,0.012 (0.037),7.46E-01,9.39E-01,No,742,-0.073 (0.041),7.79E-02,9.19E-01,No,585
+surface_area,CTQ_Neglect,male,L_rostralmiddlefrontal_surfavg,-0.083 (0.08),3.00E-01,9.60E-01,No,159,0.061 (0.037),9.62E-02,6.18E-01,No,742,-0.058 (0.041),1.62E-01,9.19E-01,No,585
+surface_area,CTQ_Neglect,male,L_superiorfrontal_surfavg,-0.043 (0.08),5.89E-01,9.72E-01,No,159,0.076 (0.037),3.95E-02,3.84E-01,No,742,0.026 (0.041),5.33E-01,9.65E-01,No,585
+surface_area,CTQ_Neglect,male,L_superiorparietal_surfavg,0.086 (0.08),2.80E-01,9.60E-01,No,159,-0.079 (0.037),3.07E-02,3.84E-01,No,742,-0.01 (0.041),8.08E-01,9.65E-01,No,585
+surface_area,CTQ_Neglect,male,L_superiortemporal_surfavg,0.025 (0.08),7.51E-01,9.72E-01,No,159,0.029 (0.037),4.32E-01,8.21E-01,No,742,0.014 (0.041),7.41E-01,9.65E-01,No,585
+surface_area,CTQ_Neglect,male,L_supramargil_surfavg,-0.013 (0.08),8.72E-01,9.72E-01,No,159,-0.042 (0.037),2.51E-01,8.21E-01,No,742,0.071 (0.041),8.82E-02,9.19E-01,No,585
+surface_area,CTQ_Neglect,male,L_frontalpole_surfavg,-0.073 (0.08),3.59E-01,9.60E-01,No,159,0.031 (0.037),3.99E-01,8.21E-01,No,742,0.004 (0.041),9.17E-01,9.65E-01,No,585
+surface_area,CTQ_Neglect,male,L_temporalpole_surfavg,0.014 (0.08),8.62E-01,9.72E-01,No,159,0.034 (0.037),3.54E-01,8.21E-01,No,742,0.06 (0.041),1.49E-01,9.19E-01,No,585
+surface_area,CTQ_Neglect,male,L_transversetemporal_surfavg,0.003 (0.08),9.73E-01,9.73E-01,No,159,0.031 (0.037),3.97E-01,8.21E-01,No,742,-0.054 (0.041),1.91E-01,9.65E-01,No,585
+surface_area,CTQ_Neglect,male,L_insula_surfavg,0.066 (0.08),4.11E-01,9.60E-01,No,159,0.006 (0.037),8.80E-01,9.57E-01,No,742,-0.02 (0.041),6.31E-01,9.65E-01,No,585
+surface_area,CTQ_Neglect,male,R_bankssts_surfavg,0.016 (0.08),8.46E-01,9.72E-01,No,159,-0.035 (0.037),3.47E-01,8.21E-01,No,742,-0.027 (0.041),5.10E-01,9.65E-01,No,585
+surface_area,CTQ_Neglect,male,R_caudalanteriorcingulate_surfavg,-0.015 (0.08),8.55E-01,9.72E-01,No,159,0.027 (0.037),4.71E-01,8.21E-01,No,742,0.012 (0.041),7.72E-01,9.65E-01,No,585
+surface_area,CTQ_Neglect,male,R_caudalmiddlefrontal_surfavg,0.142 (0.079),7.38E-02,7.17E-01,No,159,0.035 (0.037),3.43E-01,8.21E-01,No,742,-0.021 (0.041),6.13E-01,9.65E-01,No,585
+surface_area,CTQ_Neglect,male,R_cuneus_surfavg,0.06 (0.08),4.52E-01,9.60E-01,No,159,-0.033 (0.037),3.70E-01,8.21E-01,No,742,0.004 (0.041),9.17E-01,9.65E-01,No,585
+surface_area,CTQ_Neglect,male,R_entorhil_surfavg,0.078 (0.08),3.28E-01,9.60E-01,No,159,0.116 (0.037),1.57E-03,1.07E-01,No,742,0.032 (0.041),4.34E-01,9.65E-01,No,585
+surface_area,CTQ_Neglect,male,R_fusiform_surfavg,-0.15 (0.079),5.84E-02,7.17E-01,No,159,-0.003 (0.037),9.34E-01,9.62E-01,No,742,0.032 (0.041),4.40E-01,9.65E-01,No,585
+surface_area,CTQ_Neglect,male,R_inferiorparietal_surfavg,0.017 (0.08),8.31E-01,9.72E-01,No,159,-0.005 (0.037),9.01E-01,9.57E-01,No,742,-0.012 (0.041),7.76E-01,9.65E-01,No,585
+surface_area,CTQ_Neglect,male,R_inferiortemporal_surfavg,0.02 (0.08),8.07E-01,9.72E-01,No,159,-0.027 (0.037),4.64E-01,8.21E-01,No,742,-0.014 (0.041),7.32E-01,9.65E-01,No,585
+surface_area,CTQ_Neglect,male,R_isthmuscingulate_surfavg,0.006 (0.08),9.40E-01,9.73E-01,No,159,0.046 (0.037),2.15E-01,8.21E-01,No,742,-0.003 (0.041),9.50E-01,9.65E-01,No,585
+surface_area,CTQ_Neglect,male,R_lateraloccipital_surfavg,-0.104 (0.079),1.93E-01,9.60E-01,No,159,-0.008 (0.037),8.37E-01,9.57E-01,No,742,0.013 (0.041),7.59E-01,9.65E-01,No,585
+surface_area,CTQ_Neglect,male,R_lateralorbitofrontal_surfavg,0.011 (0.08),8.90E-01,9.73E-01,No,159,0.028 (0.037),4.47E-01,8.21E-01,No,742,-0.034 (0.041),4.18E-01,9.65E-01,No,585
+surface_area,CTQ_Neglect,male,R_lingual_surfavg,0.058 (0.08),4.69E-01,9.60E-01,No,159,-0.035 (0.037),3.44E-01,8.21E-01,No,742,-0.027 (0.041),5.14E-01,9.65E-01,No,585
+surface_area,CTQ_Neglect,male,R_medialorbitofrontal_surfavg,-0.1 (0.079),2.10E-01,9.60E-01,No,159,0.019 (0.037),6.06E-01,8.66E-01,No,742,-0.025 (0.041),5.42E-01,9.65E-01,No,585
+surface_area,CTQ_Neglect,male,R_middletemporal_surfavg,-0.122 (0.079),1.26E-01,8.37E-01,No,159,-0.034 (0.037),3.51E-01,8.21E-01,No,742,-0.03 (0.041),4.72E-01,9.65E-01,No,585
+surface_area,CTQ_Neglect,male,R_parahippocampal_surfavg,-0.113 (0.079),1.57E-01,8.90E-01,No,159,-0.01 (0.037),7.82E-01,9.51E-01,No,742,-0.065 (0.041),1.14E-01,9.19E-01,No,585
+surface_area,CTQ_Neglect,male,R_paracentral_surfavg,0.068 (0.08),3.97E-01,9.60E-01,No,159,-0.022 (0.037),5.45E-01,8.44E-01,No,742,-0.048 (0.041),2.47E-01,9.65E-01,No,585
+surface_area,CTQ_Neglect,male,R_parsopercularis_surfavg,0.187 (0.078),1.84E-02,7.07E-01,No,159,0.065 (0.037),7.73E-02,5.84E-01,No,742,-0.033 (0.041),4.31E-01,9.65E-01,No,585
+surface_area,CTQ_Neglect,male,R_parsorbitalis_surfavg,-0.006 (0.08),9.39E-01,9.73E-01,No,159,0.028 (0.037),4.45E-01,8.21E-01,No,742,0.01 (0.041),8.11E-01,9.65E-01,No,585
+surface_area,CTQ_Neglect,male,R_parstriangularis_surfavg,0.069 (0.08),3.88E-01,9.60E-01,No,159,0.037 (0.037),3.18E-01,8.21E-01,No,742,0.016 (0.041),6.93E-01,9.65E-01,No,585
+surface_area,CTQ_Neglect,male,R_pericalcarine_surfavg,0.144 (0.079),7.00E-02,7.17E-01,No,159,-0.055 (0.037),1.34E-01,7.00E-01,No,742,-0.016 (0.041),7.06E-01,9.65E-01,No,585
+surface_area,CTQ_Neglect,male,R_postcentral_surfavg,0.037 (0.08),6.41E-01,9.72E-01,No,159,-0.045 (0.037),2.22E-01,8.21E-01,No,742,0.001 (0.041),9.75E-01,9.75E-01,No,585
+surface_area,CTQ_Neglect,male,R_posteriorcingulate_surfavg,-0.068 (0.08),3.97E-01,9.60E-01,No,159,0.006 (0.037),8.74E-01,9.57E-01,No,742,-0.013 (0.041),7.57E-01,9.65E-01,No,585
+surface_area,CTQ_Neglect,male,R_precentral_surfavg,0.021 (0.08),7.91E-01,9.72E-01,No,159,0.047 (0.037),1.99E-01,8.21E-01,No,742,0.004 (0.041),9.26E-01,9.65E-01,No,585
+surface_area,CTQ_Neglect,male,R_precuneus_surfavg,-0.061 (0.08),4.44E-01,9.60E-01,No,159,-0.047 (0.037),2.04E-01,8.21E-01,No,742,-0.007 (0.041),8.63E-01,9.65E-01,No,585
+surface_area,CTQ_Neglect,male,R_rostralanteriorcingulate_surfavg,0.049 (0.08),5.38E-01,9.72E-01,No,159,0.019 (0.037),6.14E-01,8.66E-01,No,742,0.008 (0.041),8.52E-01,9.65E-01,No,585
+surface_area,CTQ_Neglect,male,R_rostralmiddlefrontal_surfavg,-0.056 (0.08),4.80E-01,9.60E-01,No,159,0.023 (0.037),5.28E-01,8.44E-01,No,742,-0.051 (0.041),2.16E-01,9.65E-01,No,585
+surface_area,CTQ_Neglect,male,R_superiorfrontal_surfavg,-0.081 (0.08),3.08E-01,9.60E-01,No,159,0.076 (0.037),3.73E-02,3.84E-01,No,742,-0.034 (0.041),4.14E-01,9.65E-01,No,585
+surface_area,CTQ_Neglect,male,R_superiorparietal_surfavg,0.005 (0.08),9.55E-01,9.73E-01,No,159,-0.087 (0.037),1.83E-02,3.84E-01,No,742,-0.01 (0.041),8.09E-01,9.65E-01,No,585
+surface_area,CTQ_Neglect,male,R_superiortemporal_surfavg,-0.064 (0.08),4.25E-01,9.60E-01,No,159,-0.016 (0.037),6.64E-01,8.78E-01,No,742,-0.016 (0.041),6.96E-01,9.65E-01,No,585
+surface_area,CTQ_Neglect,male,R_supramargil_surfavg,-0.023 (0.08),7.75E-01,9.72E-01,No,159,-0.037 (0.037),3.20E-01,8.21E-01,No,742,0.062 (0.041),1.37E-01,9.19E-01,No,585
+surface_area,CTQ_Neglect,male,R_frontalpole_surfavg,-0.127 (0.079),1.10E-01,8.29E-01,No,159,0.032 (0.037),3.81E-01,8.21E-01,No,742,0.024 (0.041),5.67E-01,9.65E-01,No,585
+surface_area,CTQ_Neglect,male,R_temporalpole_surfavg,0.045 (0.08),5.72E-01,9.72E-01,No,159,0.007 (0.037),8.44E-01,9.57E-01,No,742,0.069 (0.041),9.63E-02,9.19E-01,No,585
+surface_area,CTQ_Neglect,male,R_transversetemporal_surfavg,-0.017 (0.08),8.27E-01,9.72E-01,No,159,0.013 (0.037),7.27E-01,9.32E-01,No,742,-0.034 (0.041),4.05E-01,9.65E-01,No,585
+surface_area,CTQ_Neglect,male,R_insula_surfavg,0.06 (0.08),4.52E-01,9.60E-01,No,159,0.016 (0.037),6.71E-01,8.78E-01,No,742,-0.013 (0.041),7.60E-01,9.65E-01,No,585
